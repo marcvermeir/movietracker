@@ -1,0 +1,12 @@
+G:\Marc\LocalDev\MovieTracker.2019\MovieTracker\MovieTracker.Infra\bin\Debug\netstandard2.0\MovieTracker.Infra.deps.json
+G:\Marc\LocalDev\MovieTracker.2019\MovieTracker\MovieTracker.Infra\bin\Debug\netstandard2.0\MovieTracker.Infra.dll
+G:\Marc\LocalDev\MovieTracker.2019\MovieTracker\MovieTracker.Infra\obj\Debug\netstandard2.0\MovieTracker.Infra.csprojAssemblyReference.cache
+G:\Marc\LocalDev\MovieTracker.2019\MovieTracker\MovieTracker.Infra\obj\Debug\netstandard2.0\MovieTracker.Infra.csproj.CoreCompileInputs.cache
+G:\Marc\LocalDev\MovieTracker.2019\MovieTracker\MovieTracker.Infra\obj\Debug\netstandard2.0\MovieTracker.Infra.AssemblyInfoInputs.cache
+G:\Marc\LocalDev\MovieTracker.2019\MovieTracker\MovieTracker.Infra\obj\Debug\netstandard2.0\MovieTracker.Infra.AssemblyInfo.cs
+G:\Marc\LocalDev\MovieTracker.2019\MovieTracker\MovieTracker.Infra\bin\Debug\netstandard2.0\MovieTracker.Infra.pdb
+G:\Marc\LocalDev\MovieTracker.2019\MovieTracker\MovieTracker.Infra\obj\Debug\netstandard2.0\MovieTracker.Infra.dll
+G:\Marc\LocalDev\MovieTracker.2019\MovieTracker\MovieTracker.Infra\obj\Debug\netstandard2.0\MovieTracker.Infra.pdb
+G:\Marc\LocalDev\MovieTracker.2019\MovieTracker\MovieTracker.Infra\bin\Debug\netstandard2.0\MovieTracker.Core.dll
+G:\Marc\LocalDev\MovieTracker.2019\MovieTracker\MovieTracker.Infra\bin\Debug\netstandard2.0\MovieTracker.Core.pdb
+G:\Marc\LocalDev\MovieTracker.2019\MovieTracker\MovieTracker.Infra\obj\Debug\netstandard2.0\MovieTracker.Infra.csproj.CopyComplete
