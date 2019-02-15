@@ -1,7 +1,5 @@
-﻿using System;
-using Microsoft.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore.Metadata;
-using MovieTracker.Infra.Models.Entities;
+﻿using Microsoft.EntityFrameworkCore;
+using MovieTracker.Core.Entities;
 
 namespace MovieTracker.Infra.Data
 {

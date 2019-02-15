@@ -1,5 +1,5 @@
-﻿using MovieTracker.Core.Interfaces;
-using MovieTracker.Infra.Models.Entities;
+﻿using MovieTracker.Core.Entities;
+using MovieTracker.Core.Interfaces;
 
 namespace MovieTracker.Infra.Data
 {
@@ -7,6 +7,7 @@ namespace MovieTracker.Infra.Data
     {
         public MovieRepository(MovieTrackerContext dbContext) : base(dbContext)
         {
+            //todo: add some other methods ?! ..
         }
     }
 }

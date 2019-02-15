@@ -3234,11 +3234,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Marc\\LocalDev\\MovieTracker.2019\\MovieTracker\\MovieTracker.Infra\\MovieTracker.Infra.csproj",
+      "projectUniqueName": "G:\\Marc\\LocalDev\\MovieTracker.2019\\movietracker\\MovieTracker.Infra\\MovieTracker.Infra.csproj",
       "projectName": "MovieTracker.Infra",
-      "projectPath": "G:\\Marc\\LocalDev\\MovieTracker.2019\\MovieTracker\\MovieTracker.Infra\\MovieTracker.Infra.csproj",
+      "projectPath": "G:\\Marc\\LocalDev\\MovieTracker.2019\\movietracker\\MovieTracker.Infra\\MovieTracker.Infra.csproj",
       "packagesPath": "C:\\Users\\marcv\\.nuget\\packages\\",
-      "outputPath": "G:\\Marc\\LocalDev\\MovieTracker.2019\\MovieTracker\\MovieTracker.Infra\\obj\\",
+      "outputPath": "G:\\Marc\\LocalDev\\MovieTracker.2019\\movietracker\\MovieTracker.Infra\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3257,8 +3257,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "G:\\Marc\\LocalDev\\MovieTracker.2019\\MovieTracker\\MovieTracker.Core\\MovieTracker.Core.csproj": {
-              "projectPath": "G:\\Marc\\LocalDev\\MovieTracker.2019\\MovieTracker\\MovieTracker.Core\\MovieTracker.Core.csproj"
+            "G:\\Marc\\LocalDev\\MovieTracker.2019\\movietracker\\MovieTracker.Core\\MovieTracker.Core.csproj": {
+              "projectPath": "G:\\Marc\\LocalDev\\MovieTracker.2019\\movietracker\\MovieTracker.Core\\MovieTracker.Core.csproj"
             }
           }
         }

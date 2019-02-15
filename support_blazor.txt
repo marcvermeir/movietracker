@@ -1,0 +1,8 @@
+**** https://www.c-sharpcorner.com/article/creating-a-spa-using-razor-pages-with-blazor/
+
+
+*** https://docs.microsoft.com/en-us/aspnet/core/tutorials/build-your-first-blazor-app?view=aspnetcore-3.0
+
++++ https://tomassetti.me/blazor-net-in-the-browser/
++++ https://scottsauber.files.wordpress.com/2018/07/blazor.pdf
++++ https://www.dotnetcurry.com/dotnet/1460/blazor-getting-started
