@@ -1,3 +1,0 @@
-
->>> continue with Create models on page 23 : The Little ASP.NET Core Book
-
