@@ -10,7 +10,7 @@ export default class Layout extends React.Component {
         return (
             <>
                 <NavMenu />
-                <Container fluid>
+                <Container>
                     {this.props.children}
                 </Container>
                 <Footer />

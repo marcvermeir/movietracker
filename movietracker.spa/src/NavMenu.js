@@ -11,6 +11,8 @@ export default function NavMenu() {
                 <Navbar.Body>
                     <Nav>
                         <Nav.Item icon={<Icon icon="home" />}>Home</Nav.Item>
+                        <Nav.Item icon={<Icon icon="film" />}>Watchlist</Nav.Item>
+
                         {false && (
                             <>
                                 <Nav.Item>News</Nav.Item>
@@ -22,12 +24,15 @@ export default function NavMenu() {
                                 </Dropdown>
                             </>
                         )}
+
                     </Nav>
+
                     {false && (
                         <Nav pullRight>
                             <Nav.Item icon={<Icon icon="cog" />} >Settings</Nav.Item>
                         </Nav>
                     )}
+
                 </Navbar.Body>
             </Navbar>
         </>
