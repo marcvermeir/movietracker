@@ -5,6 +5,7 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import { BrowserRouter } from 'react-router-dom';
 import { createBrowserHistory } from 'history';
+
 import { stripTrailingSlash } from './StringHelper';
 
 const baseUrl = document.getElementsByTagName('base')[0].getAttribute('href');
@@ -12,7 +13,7 @@ const rootElement = document.getElementById('root');
 
 console.log('environment', process.env.NODE_ENV);
 if (process.env.NODE_ENV !== 'development') {
-  console.log = () => {};
+  console.log = () => { };
 }
 
 export const history = createBrowserHistory({
