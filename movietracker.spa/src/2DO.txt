@@ -1,0 +1,14 @@
+
+MovieTracker :
+    - Configuratie-form : input API key / credentials ? / API URL ...
+
+    ° UI Library ? :
+        - RSUITE OR
+        - CHAKRA OR
+        - ...
+        
+    ° Database via ? :
+        - Google DataStore ? OR
+        - Amazon SimpleDB ? OR
+	- https://jsonbase.com/#about
+        - 

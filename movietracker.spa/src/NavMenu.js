@@ -13,6 +13,7 @@ export default function NavMenu() {
                         <Nav.Item icon={<Icon icon="home" />}>Home</Nav.Item>
                         <Nav.Item icon={<Icon icon="film" />}>Watchlist</Nav.Item>
 
+                        {/* //// */}
                         {false && (
                             <>
                                 <Nav.Item>News</Nav.Item>
