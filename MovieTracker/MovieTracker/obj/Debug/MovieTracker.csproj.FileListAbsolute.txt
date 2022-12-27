@@ -1,0 +1,15 @@
+D:\Files.nosync\My DEV\github\movietracker\MovieTracker\MovieTracker\bin\Debug\MovieTracker.exe.config
+D:\Files.nosync\My DEV\github\movietracker\MovieTracker\MovieTracker\bin\Debug\MovieTracker.exe
+D:\Files.nosync\My DEV\github\movietracker\MovieTracker\MovieTracker\bin\Debug\MovieTracker.pdb
+D:\Files.nosync\My DEV\github\movietracker\MovieTracker\MovieTracker\obj\Debug\MovieTracker.csproj.AssemblyReference.cache
+D:\Files.nosync\My DEV\github\movietracker\MovieTracker\MovieTracker\obj\Debug\MainWindow.g.cs
+D:\Files.nosync\My DEV\github\movietracker\MovieTracker\MovieTracker\obj\Debug\App.g.cs
+D:\Files.nosync\My DEV\github\movietracker\MovieTracker\MovieTracker\obj\Debug\MovieTracker_MarkupCompile.cache
+D:\Files.nosync\My DEV\github\movietracker\MovieTracker\MovieTracker\obj\Debug\MovieTracker_MarkupCompile.lref
+D:\Files.nosync\My DEV\github\movietracker\MovieTracker\MovieTracker\obj\Debug\MainWindow.baml
+D:\Files.nosync\My DEV\github\movietracker\MovieTracker\MovieTracker\obj\Debug\MovieTracker.g.resources
+D:\Files.nosync\My DEV\github\movietracker\MovieTracker\MovieTracker\obj\Debug\MovieTracker.Properties.Resources.resources
+D:\Files.nosync\My DEV\github\movietracker\MovieTracker\MovieTracker\obj\Debug\MovieTracker.csproj.GenerateResource.cache
+D:\Files.nosync\My DEV\github\movietracker\MovieTracker\MovieTracker\obj\Debug\MovieTracker.csproj.CoreCompileInputs.cache
+D:\Files.nosync\My DEV\github\movietracker\MovieTracker\MovieTracker\obj\Debug\MovieTracker.exe
+D:\Files.nosync\My DEV\github\movietracker\MovieTracker\MovieTracker\obj\Debug\MovieTracker.pdb

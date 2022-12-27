@@ -1,5 +1,0 @@
-*** check :
-    https://stormpath.com/blog/5-practical-tips-for-building-your-spring-boot-api
-    https://www.javaguides.net/2019/08/spring-boot-crud-rest-api-spring-data-jpa-h2-database-example.html
-    https://bezkoder.com/spring-boot-jpa-crud-rest-api/
-    https://www.dariawan.com/tutorials/spring/spring-boot-restful-web-services-crud-example/
