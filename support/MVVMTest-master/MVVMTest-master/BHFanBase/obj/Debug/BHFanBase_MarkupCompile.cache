@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\Files.nosync\My DEV\github\movietracker\movietracker2023\MVVMTest-master\MVVMTest-master\BHFanBase\obj\Debug\
+D:\Files.nosync\My DEV\github\movietracker\support\MVVMTest-master\MVVMTest-master\BHFanBase\obj\Debug\
 BHFanBase
 none
 false
 CODE_ANALYSIS;DEBUG;TRACE
-D:\Files.nosync\My DEV\github\movietracker\movietracker2023\MVVMTest-master\MVVMTest-master\BHFanBase\App.xaml
+D:\Files.nosync\My DEV\github\movietracker\support\MVVMTest-master\MVVMTest-master\BHFanBase\App.xaml
 4835060961
 
 18826086801
-68-923543871
+681660067185
 LoginWindow.xaml;MainWindow.xaml;MainPage.xaml;Skins\MainSkin.xaml;
 
-False
+True
 

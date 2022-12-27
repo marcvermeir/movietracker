@@ -5,6 +5,13 @@ VisualStudioVersion = 16.0.33130.400
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieTracker", "MovieTracker\MovieTracker.csproj", "{9BFE8BA7-BB14-42F5-A875-5D9A25F3C786}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieTracker.Infra", "MovieTracker.Infra\MovieTracker.Infra.csproj", "{6EAECDDA-91CD-41DE-A56C-C025AAF5D3CD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "support", "support", "{A6652620-C0AD-4C4E-A07D-3F65C51E2608}"
+	ProjectSection(SolutionItems) = preProject
+		support.txt = support.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +22,10 @@ Global
 		{9BFE8BA7-BB14-42F5-A875-5D9A25F3C786}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9BFE8BA7-BB14-42F5-A875-5D9A25F3C786}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9BFE8BA7-BB14-42F5-A875-5D9A25F3C786}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EAECDDA-91CD-41DE-A56C-C025AAF5D3CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EAECDDA-91CD-41DE-A56C-C025AAF5D3CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EAECDDA-91CD-41DE-A56C-C025AAF5D3CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EAECDDA-91CD-41DE-A56C-C025AAF5D3CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
