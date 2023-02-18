@@ -10,3 +10,15 @@ D:\Files.nosync\My DEV\github\movietracker\MovieTracker\MovieTracker.Infra\obj\D
 D:\Files.nosync\My DEV\github\movietracker\MovieTracker\MovieTracker.Infra\obj\Debug\MovieTracker.Infra.csproj.CopyComplete
 D:\Files.nosync\My DEV\github\movietracker\MovieTracker\MovieTracker.Infra\obj\Debug\MovieTracker.Infra.dll
 D:\Files.nosync\My DEV\github\movietracker\MovieTracker\MovieTracker.Infra\obj\Debug\MovieTracker.Infra.pdb
+C:\Users\marcv\Documents\My DEV\github\movietracker\MovieTracker\MovieTracker.Infra\bin\Debug\MovieTracker.Infra.dll.config
+C:\Users\marcv\Documents\My DEV\github\movietracker\MovieTracker\MovieTracker.Infra\bin\Debug\MovieTracker.Infra.dll
+C:\Users\marcv\Documents\My DEV\github\movietracker\MovieTracker\MovieTracker.Infra\bin\Debug\MovieTracker.Infra.pdb
+C:\Users\marcv\Documents\My DEV\github\movietracker\MovieTracker\MovieTracker.Infra\bin\Debug\EntityFramework.dll
+C:\Users\marcv\Documents\My DEV\github\movietracker\MovieTracker\MovieTracker.Infra\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\marcv\Documents\My DEV\github\movietracker\MovieTracker\MovieTracker.Infra\bin\Debug\EntityFramework.xml
+C:\Users\marcv\Documents\My DEV\github\movietracker\MovieTracker\MovieTracker.Infra\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\marcv\Documents\My DEV\github\movietracker\MovieTracker\MovieTracker.Infra\obj\Debug\MovieTracker.Infra.csproj.AssemblyReference.cache
+C:\Users\marcv\Documents\My DEV\github\movietracker\MovieTracker\MovieTracker.Infra\obj\Debug\MovieTracker.Infra.csproj.CoreCompileInputs.cache
+C:\Users\marcv\Documents\My DEV\github\movietracker\MovieTracker\MovieTracker.Infra\obj\Debug\MovieTracker.Infra.csproj.CopyComplete
+C:\Users\marcv\Documents\My DEV\github\movietracker\MovieTracker\MovieTracker.Infra\obj\Debug\MovieTracker.Infra.dll
+C:\Users\marcv\Documents\My DEV\github\movietracker\MovieTracker\MovieTracker.Infra\obj\Debug\MovieTracker.Infra.pdb
