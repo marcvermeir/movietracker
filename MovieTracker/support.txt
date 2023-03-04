@@ -1,3 +1,9 @@
 
+MovieTracker 2023 :
+	* front-end in ReactJS & ANT-DESIGN	.. hosted @ Netlify ?
+	* back-end in .NET 6 - REST API .. hosted @ AZURE ?
+
+	= based on InventorySample project by Microsoft ?!
+
 >>> Create a new DB using CodeFirst in EFx : 
 	# https://www.c-sharpcorner.com/article/create-a-new-database-using-code-first-in-entity-framework/
