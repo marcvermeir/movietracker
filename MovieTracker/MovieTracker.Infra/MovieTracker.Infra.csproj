@@ -55,6 +55,7 @@
     <Compile Include="DataContexts\IDataSource.cs" />
     <Compile Include="DataContexts\SQLServerDB.cs" />
     <Compile Include="Data\MItem.cs" />
+    <Compile Include="Data\User.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

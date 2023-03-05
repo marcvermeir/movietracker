@@ -5,6 +5,7 @@ using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Net.Mail;
 
 namespace MovieTracker.Infra.Data
 {
@@ -19,7 +20,7 @@ namespace MovieTracker.Infra.Data
     {
         [Key]
         [DatabaseGenerat‌​ed(DatabaseGeneratedOption.Identity)]
-        public int ID { get; set; }
+        public long ID { get; set; }
 
         [Required]
         [MaxLength(50)]
@@ -33,5 +34,7 @@ namespace MovieTracker.Infra.Data
 
         [MaxLength(250)]
         public string Description { get; set; }
+
+        public string BuildSearchTerms() => $"{ID} {Name} {Category} {Status} {Description}".ToLower();
     }
 }
