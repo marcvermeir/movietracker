@@ -12,3 +12,4 @@ D:\Files.nosync\My DEV\github\movietracker\MovieTracker.API\MovieTracker.Infra\o
 D:\Files.nosync\My DEV\github\movietracker\MovieTracker.API\MovieTracker.Infra\obj\Debug\MovieTracker.Infra.csproj.CopyComplete
 D:\Files.nosync\My DEV\github\movietracker\MovieTracker.API\MovieTracker.Infra\obj\Debug\MovieTracker.Infra.dll
 D:\Files.nosync\My DEV\github\movietracker\MovieTracker.API\MovieTracker.Infra\obj\Debug\MovieTracker.Infra.pdb
+D:\Files.nosync\My DEV\github\movietracker\MovieTracker.API\MovieTracker.Infra\bin\Debug\MovieTracker.Core.dll.config

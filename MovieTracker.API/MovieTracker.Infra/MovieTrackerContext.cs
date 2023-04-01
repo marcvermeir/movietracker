@@ -1,5 +1,4 @@
 ﻿using MovieTracker.Core.Domain;
-using MovieTracker.Infra.EntityConfigurations;
 using System.Data.Entity;
 
 namespace MovieTracker.Infra
@@ -20,7 +19,7 @@ namespace MovieTracker.Infra
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
-            modelBuilder.Configurations.Add(new WatchlistConfiguration());
+            // modelBuilder.Configurations.Add(new WatchlistConfiguration());
         }
     }
 }
