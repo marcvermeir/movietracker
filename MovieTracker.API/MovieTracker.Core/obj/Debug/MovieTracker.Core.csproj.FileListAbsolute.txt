@@ -1,12 +1,12 @@
+D:\Files.nosync\My DEV\github\movietracker\MovieTracker.API\MovieTracker.Core\bin\Debug\MovieTracker.Core.dll.config
 D:\Files.nosync\My DEV\github\movietracker\MovieTracker.API\MovieTracker.Core\bin\Debug\MovieTracker.Core.dll
 D:\Files.nosync\My DEV\github\movietracker\MovieTracker.API\MovieTracker.Core\bin\Debug\MovieTracker.Core.pdb
-D:\Files.nosync\My DEV\github\movietracker\MovieTracker.API\MovieTracker.Core\obj\Debug\MovieTracker.Core.csproj.AssemblyReference.cache
-D:\Files.nosync\My DEV\github\movietracker\MovieTracker.API\MovieTracker.Core\obj\Debug\MovieTracker.Core.csproj.CoreCompileInputs.cache
-D:\Files.nosync\My DEV\github\movietracker\MovieTracker.API\MovieTracker.Core\obj\Debug\MovieTracker.Core.dll
-D:\Files.nosync\My DEV\github\movietracker\MovieTracker.API\MovieTracker.Core\obj\Debug\MovieTracker.Core.pdb
-D:\Files.nosync\My DEV\github\movietracker\MovieTracker.API\MovieTracker.Core\bin\Debug\MovieTracker.Core.dll.config
 D:\Files.nosync\My DEV\github\movietracker\MovieTracker.API\MovieTracker.Core\bin\Debug\EntityFramework.dll
 D:\Files.nosync\My DEV\github\movietracker\MovieTracker.API\MovieTracker.Core\bin\Debug\EntityFramework.SqlServer.dll
 D:\Files.nosync\My DEV\github\movietracker\MovieTracker.API\MovieTracker.Core\bin\Debug\EntityFramework.xml
 D:\Files.nosync\My DEV\github\movietracker\MovieTracker.API\MovieTracker.Core\bin\Debug\EntityFramework.SqlServer.xml
+D:\Files.nosync\My DEV\github\movietracker\MovieTracker.API\MovieTracker.Core\obj\Debug\MovieTracker.Core.csproj.AssemblyReference.cache
+D:\Files.nosync\My DEV\github\movietracker\MovieTracker.API\MovieTracker.Core\obj\Debug\MovieTracker.Core.csproj.CoreCompileInputs.cache
 D:\Files.nosync\My DEV\github\movietracker\MovieTracker.API\MovieTracker.Core\obj\Debug\MovieTracker.Core.csproj.CopyComplete
+D:\Files.nosync\My DEV\github\movietracker\MovieTracker.API\MovieTracker.Core\obj\Debug\MovieTracker.Core.dll
+D:\Files.nosync\My DEV\github\movietracker\MovieTracker.API\MovieTracker.Core\obj\Debug\MovieTracker.Core.pdb

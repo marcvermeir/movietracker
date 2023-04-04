@@ -1,6 +1,7 @@
 ﻿using MovieTracker.Core.Domain;
 using MovieTracker.Core.Repositories;
-using System;
+using System.Data.Entity;
+using System.Linq;
 
 namespace MovieTracker.Infra.Respositories
 {
@@ -10,8 +11,10 @@ namespace MovieTracker.Infra.Respositories
 
         public Watchlist GetWatchlistWithWatchlistItems(long id)
         {
-            //TODO: >>>
-            throw new NotImplementedException();
+            return MovieTrackerContext.Watchlists
+                .Include(x => x.WatchlistItems)
+                .Where(x => x.Id == id)
+                .First();
         }
 
         public MovieTrackerContext MovieTrackerContext

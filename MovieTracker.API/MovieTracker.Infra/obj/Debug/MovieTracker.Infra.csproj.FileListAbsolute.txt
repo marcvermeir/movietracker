@@ -5,6 +5,7 @@ D:\Files.nosync\My DEV\github\movietracker\MovieTracker.API\MovieTracker.Infra\b
 D:\Files.nosync\My DEV\github\movietracker\MovieTracker.API\MovieTracker.Infra\bin\Debug\EntityFramework.SqlServer.dll
 D:\Files.nosync\My DEV\github\movietracker\MovieTracker.API\MovieTracker.Infra\bin\Debug\MovieTracker.Core.dll
 D:\Files.nosync\My DEV\github\movietracker\MovieTracker.API\MovieTracker.Infra\bin\Debug\MovieTracker.Core.pdb
+D:\Files.nosync\My DEV\github\movietracker\MovieTracker.API\MovieTracker.Infra\bin\Debug\MovieTracker.Core.dll.config
 D:\Files.nosync\My DEV\github\movietracker\MovieTracker.API\MovieTracker.Infra\bin\Debug\EntityFramework.xml
 D:\Files.nosync\My DEV\github\movietracker\MovieTracker.API\MovieTracker.Infra\bin\Debug\EntityFramework.SqlServer.xml
 D:\Files.nosync\My DEV\github\movietracker\MovieTracker.API\MovieTracker.Infra\obj\Debug\MovieTracker.Infra.csproj.AssemblyReference.cache
@@ -12,4 +13,3 @@ D:\Files.nosync\My DEV\github\movietracker\MovieTracker.API\MovieTracker.Infra\o
 D:\Files.nosync\My DEV\github\movietracker\MovieTracker.API\MovieTracker.Infra\obj\Debug\MovieTracker.Infra.csproj.CopyComplete
 D:\Files.nosync\My DEV\github\movietracker\MovieTracker.API\MovieTracker.Infra\obj\Debug\MovieTracker.Infra.dll
 D:\Files.nosync\My DEV\github\movietracker\MovieTracker.API\MovieTracker.Infra\obj\Debug\MovieTracker.Infra.pdb
-D:\Files.nosync\My DEV\github\movietracker\MovieTracker.API\MovieTracker.Infra\bin\Debug\MovieTracker.Core.dll.config

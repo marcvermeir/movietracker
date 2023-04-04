@@ -5,7 +5,7 @@ using System.Data.Entity;
 
 namespace MovieTracker.Test
 {
-    public class MovieTrackerDBInitializer : DropCreateDatabaseIfModelChanges<MovieTrackerContext>
+    public class MovieTrackerDBInitializer : DropCreateDatabaseAlways<MovieTrackerContext>
     {
         protected override void Seed(MovieTrackerContext context)
         {
