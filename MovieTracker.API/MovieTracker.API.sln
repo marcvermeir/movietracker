@@ -12,6 +12,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{EA0C0905-7586-4413-98BB-5C862E0485A2}"
 	ProjectSection(SolutionItems) = preProject
 		2do.txt = 2do.txt
+		support.txt = support.txt
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieTracker.Test", "MovieTracker.Test\MovieTracker.Test.csproj", "{A5EF5F77-38F5-41FE-850B-4EAA0C52F49F}"

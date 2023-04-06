@@ -9,7 +9,7 @@ namespace MovieTracker.Test
     {
         static void Main(string[] args)
         {
-            //// Database.SetInitializer(new DropCreateDatabaseIfModelChanges<MovieTrackerContext>());
+            // Database.SetInitializer(new DropCreateDatabaseIfModelChanges<MovieTrackerContext>());
             Database.SetInitializer(new MovieTrackerDBInitializer());
 
             using (var context = new MovieTrackerContext())
@@ -40,7 +40,7 @@ namespace MovieTracker.Test
                 var wl = unitOfWork.Watchlists.GetWatchlistWithWatchlistItems(2);
                 Debug.Assert(wl != null);
 
-                /// ?! the following should not be possible .. ?!
+                /// ?! the following should not be possible .. due to composition relationship between WL and WLItem ..
 
                 watchlistItem = new WatchlistItem();
                 watchlistItem.Title = "Movie?";

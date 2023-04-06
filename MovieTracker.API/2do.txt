@@ -1,4 +1,10 @@
 
+>>> 1.	Add DI by Autofac : https://techbrij.com/autofac-ioc-container-asp-net-mvc-di
+
+>>> 2.	Implement some usefull repository methods ..
+
+///
+
 ??? How to avoid that a WatchlistItem is added without being part of a Watchlist (= no relation with WL) ???
 
 +++ check / use :

@@ -1,11 +1,12 @@
-﻿using System;
+﻿using MovieTracker.Core.Repositories;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
 namespace MovieTracker.Core.Domain
 {
-    public class WatchlistItem
+    public class WatchlistItem : AuditableEntity<long>
     {
         public WatchlistItem()
         {
@@ -13,9 +14,10 @@ namespace MovieTracker.Core.Domain
         }
 
 
-        [Key]
-        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-        public long Id { get; set; }
+        //[Key]
+        //[DatabaseGenerated(DatabaseGeneratedOption.Identity)]
+        //public long Id { get; set; }
+
 
         [Required]
         [MaxLength(50)]

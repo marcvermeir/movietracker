@@ -68,5 +68,13 @@ namespace MovieTracker.Infra.Respositories
         {
             Context.Set<TEntity>().RemoveRange(entities);
         }
+
+        //TODO: ??? 
+        /*
+        public virtual void Edit(T entity)
+        {
+            _entities.Entry(entity).State = System.Data.Entity.EntityState.Modified;
+        }
+        */
     }
 }

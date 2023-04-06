@@ -55,6 +55,10 @@
     <Compile Include="Domain\WatchlistItem.cs" />
     <Compile Include="IUnitOfWork.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repositories\AuditableEntity.cs" />
+    <Compile Include="Repositories\Entity.cs" />
+    <Compile Include="Repositories\IAuditableEntity.cs" />
+    <Compile Include="Repositories\IEntity.cs" />
     <Compile Include="Repositories\IRepository.cs" />
     <Compile Include="Repositories\IWatchlistItemRepository.cs" />
     <Compile Include="Repositories\IWatchlistRepository.cs" />
