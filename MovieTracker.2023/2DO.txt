@@ -1,0 +1,6 @@
+
+* entity WatchlistItem :
+	+ MovieOrTvShow	= enum M or S
+	+ YearOfRelease
+	+ IMDBRef
+	+ ToWatchOrWatched				= string(5), example 1000
