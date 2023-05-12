@@ -568,9 +568,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Files.nosync\\My DEV\\github\\movietracker\\MovieTracker.2023\\MovieTracker.Core\\MovieTracker.Core.csproj",
-      "projectName": "MovieTracker.Core",
-      "projectPath": "D:\\Files.nosync\\My DEV\\github\\movietracker\\MovieTracker.2023\\MovieTracker.Core\\MovieTracker.Core.csproj",
+      "projectUniqueName": "D:\\Files.nosync\\My DEV\\github\\movietracker\\MovieTracker.2023\\MovieTracker.Core\\_MovieTracker.Core.csproj",
+      "projectName": "_MovieTracker.Core",
+      "projectPath": "D:\\Files.nosync\\My DEV\\github\\movietracker\\MovieTracker.2023\\MovieTracker.Core\\_MovieTracker.Core.csproj",
       "packagesPath": "C:\\Users\\marcv\\.nuget\\packages\\",
       "outputPath": "D:\\Files.nosync\\My DEV\\github\\movietracker\\MovieTracker.2023\\MovieTracker.Core\\obj\\",
       "projectStyle": "PackageReference",
@@ -626,7 +626,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }

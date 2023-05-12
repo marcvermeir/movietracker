@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "N7jkBF+Je14+AXxrC4jmos4wDxybXGIQOWcX6hcBMGhp03Ib7MMC8bkre9S4iqoFoXjd7RA1VF85ombsbotcBA==",
+  "dgSpecHash": "R70Pao9HmdiD1BfZ9hMNvxMJKVqMTEi/ZaA2DoAoANKioBfFagFRtnv15Xa4ibledyIAviUFC0Pq/iYMjS3PvA==",
   "success": true,
-  "projectFilePath": "D:\\Files.nosync\\My DEV\\github\\movietracker\\MovieTracker.2023\\MovieTracker.Core\\MovieTracker.Core.csproj",
+  "projectFilePath": "D:\\Files.nosync\\My DEV\\github\\movietracker\\MovieTracker.2023\\MovieTracker.Core\\_MovieTracker.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marcv\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.4\\microsoft.entityframeworkcore.7.0.4.nupkg.sha512",
     "C:\\Users\\marcv\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.4\\microsoft.entityframeworkcore.abstractions.7.0.4.nupkg.sha512",

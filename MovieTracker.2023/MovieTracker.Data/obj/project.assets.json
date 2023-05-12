@@ -1047,17 +1047,17 @@
           }
         }
       },
-      "MovieTracker.Core/1.0.0": {
+      "_MovieTracker.Core/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "7.0.4"
         },
         "compile": {
-          "bin/placeholder/MovieTracker.Core.dll": {}
+          "bin/placeholder/_MovieTracker.Core.dll": {}
         },
         "runtime": {
-          "bin/placeholder/MovieTracker.Core.dll": {}
+          "bin/placeholder/_MovieTracker.Core.dll": {}
         }
       }
     }
@@ -3229,17 +3229,17 @@
         "version.txt"
       ]
     },
-    "MovieTracker.Core/1.0.0": {
+    "_MovieTracker.Core/1.0.0": {
       "type": "project",
-      "path": "../MovieTracker.Core/MovieTracker.Core.csproj",
-      "msbuildProject": "../MovieTracker.Core/MovieTracker.Core.csproj"
+      "path": "../MovieTracker.Core/_MovieTracker.Core.csproj",
+      "msbuildProject": "../MovieTracker.Core/_MovieTracker.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "Microsoft.EntityFrameworkCore >= 7.0.4",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.4",
-      "MovieTracker.Core >= 1.0.0"
+      "_MovieTracker.Core >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -3249,9 +3249,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Files.nosync\\My DEV\\github\\movietracker\\MovieTracker.2023\\MovieTracker.Data\\MovieTracker.Data.csproj",
-      "projectName": "MovieTracker.Data",
-      "projectPath": "D:\\Files.nosync\\My DEV\\github\\movietracker\\MovieTracker.2023\\MovieTracker.Data\\MovieTracker.Data.csproj",
+      "projectUniqueName": "D:\\Files.nosync\\My DEV\\github\\movietracker\\MovieTracker.2023\\MovieTracker.Data\\_MovieTracker.Data.csproj",
+      "projectName": "_MovieTracker.Data",
+      "projectPath": "D:\\Files.nosync\\My DEV\\github\\movietracker\\MovieTracker.2023\\MovieTracker.Data\\_MovieTracker.Data.csproj",
       "packagesPath": "C:\\Users\\marcv\\.nuget\\packages\\",
       "outputPath": "D:\\Files.nosync\\My DEV\\github\\movietracker\\MovieTracker.2023\\MovieTracker.Data\\obj\\",
       "projectStyle": "PackageReference",
@@ -3274,8 +3274,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Files.nosync\\My DEV\\github\\movietracker\\MovieTracker.2023\\MovieTracker.Core\\MovieTracker.Core.csproj": {
-              "projectPath": "D:\\Files.nosync\\My DEV\\github\\movietracker\\MovieTracker.2023\\MovieTracker.Core\\MovieTracker.Core.csproj"
+            "D:\\Files.nosync\\My DEV\\github\\movietracker\\MovieTracker.2023\\MovieTracker.Core\\_MovieTracker.Core.csproj": {
+              "projectPath": "D:\\Files.nosync\\My DEV\\github\\movietracker\\MovieTracker.2023\\MovieTracker.Core\\_MovieTracker.Core.csproj"
             }
           }
         }
@@ -3315,7 +3315,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }
