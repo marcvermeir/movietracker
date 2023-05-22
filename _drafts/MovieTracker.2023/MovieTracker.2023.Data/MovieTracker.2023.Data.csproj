@@ -54,6 +54,7 @@
     <Compile Include="Common\DataRequest.cs" />
     <Compile Include="Common\UIDGenerator.cs" />
     <Compile Include="Data\AppLog.cs" />
+    <Compile Include="Data\Watchlist.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
