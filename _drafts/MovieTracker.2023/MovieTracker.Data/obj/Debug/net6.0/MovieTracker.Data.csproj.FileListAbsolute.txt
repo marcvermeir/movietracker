@@ -1,0 +1,15 @@
+D:\Files.nosync\My DEV\github\movietracker\MovieTracker.2023\MovieTracker.Data\bin\Debug\net6.0\MovieTracker.Data.deps.json
+D:\Files.nosync\My DEV\github\movietracker\MovieTracker.2023\MovieTracker.Data\bin\Debug\net6.0\MovieTracker.Data.dll
+D:\Files.nosync\My DEV\github\movietracker\MovieTracker.2023\MovieTracker.Data\bin\Debug\net6.0\MovieTracker.Data.pdb
+D:\Files.nosync\My DEV\github\movietracker\MovieTracker.2023\MovieTracker.Data\obj\Debug\net6.0\MovieTracker.Data.csproj.AssemblyReference.cache
+D:\Files.nosync\My DEV\github\movietracker\MovieTracker.2023\MovieTracker.Data\obj\Debug\net6.0\MovieTracker.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Files.nosync\My DEV\github\movietracker\MovieTracker.2023\MovieTracker.Data\obj\Debug\net6.0\MovieTracker.Data.AssemblyInfoInputs.cache
+D:\Files.nosync\My DEV\github\movietracker\MovieTracker.2023\MovieTracker.Data\obj\Debug\net6.0\MovieTracker.Data.AssemblyInfo.cs
+D:\Files.nosync\My DEV\github\movietracker\MovieTracker.2023\MovieTracker.Data\obj\Debug\net6.0\MovieTracker.Data.csproj.CoreCompileInputs.cache
+D:\Files.nosync\My DEV\github\movietracker\MovieTracker.2023\MovieTracker.Data\obj\Debug\net6.0\MovieTracker.Data.dll
+D:\Files.nosync\My DEV\github\movietracker\MovieTracker.2023\MovieTracker.Data\obj\Debug\net6.0\refint\MovieTracker.Data.dll
+D:\Files.nosync\My DEV\github\movietracker\MovieTracker.2023\MovieTracker.Data\obj\Debug\net6.0\MovieTracker.Data.pdb
+D:\Files.nosync\My DEV\github\movietracker\MovieTracker.2023\MovieTracker.Data\obj\Debug\net6.0\ref\MovieTracker.Data.dll
+D:\Files.nosync\My DEV\github\movietracker\MovieTracker.2023\MovieTracker.Data\bin\Debug\net6.0\MovieTracker.Core.dll
+D:\Files.nosync\My DEV\github\movietracker\MovieTracker.2023\MovieTracker.Data\bin\Debug\net6.0\MovieTracker.Core.pdb
+D:\Files.nosync\My DEV\github\movietracker\MovieTracker.2023\MovieTracker.Data\obj\Debug\net6.0\MovieTracker.Data.csproj.CopyComplete
