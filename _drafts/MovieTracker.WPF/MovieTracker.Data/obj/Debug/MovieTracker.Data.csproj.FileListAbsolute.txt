@@ -1,6 +1,0 @@
-D:\Files.nosync\My DEV\github\movietracker\MovieTracker.WPF\MovieTracker.Data\bin\Debug\MovieTracker.Data.dll
-D:\Files.nosync\My DEV\github\movietracker\MovieTracker.WPF\MovieTracker.Data\bin\Debug\MovieTracker.Data.pdb
-D:\Files.nosync\My DEV\github\movietracker\MovieTracker.WPF\MovieTracker.Data\obj\Debug\MovieTracker.Data.csproj.AssemblyReference.cache
-D:\Files.nosync\My DEV\github\movietracker\MovieTracker.WPF\MovieTracker.Data\obj\Debug\MovieTracker.Data.csproj.CoreCompileInputs.cache
-D:\Files.nosync\My DEV\github\movietracker\MovieTracker.WPF\MovieTracker.Data\obj\Debug\MovieTracker.Data.dll
-D:\Files.nosync\My DEV\github\movietracker\MovieTracker.WPF\MovieTracker.Data\obj\Debug\MovieTracker.Data.pdb
