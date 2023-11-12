@@ -1,21 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marcv\\Documents\\My DEV\\github\\movietracker\\iReader\\iReader.API\\iReader.API.csproj": {}
+    "D:\\Files.nosync\\My DEV\\github\\movietracker\\iReader\\iReader.API\\iReader.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marcv\\Documents\\My DEV\\github\\movietracker\\iReader\\iReader.API\\iReader.API.csproj": {
+    "D:\\Files.nosync\\My DEV\\github\\movietracker\\iReader\\iReader.API\\iReader.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marcv\\Documents\\My DEV\\github\\movietracker\\iReader\\iReader.API\\iReader.API.csproj",
+        "projectUniqueName": "D:\\Files.nosync\\My DEV\\github\\movietracker\\iReader\\iReader.API\\iReader.API.csproj",
         "projectName": "iReader.API",
-        "projectPath": "C:\\Users\\marcv\\Documents\\My DEV\\github\\movietracker\\iReader\\iReader.API\\iReader.API.csproj",
+        "projectPath": "D:\\Files.nosync\\My DEV\\github\\movietracker\\iReader\\iReader.API\\iReader.API.csproj",
         "packagesPath": "C:\\Users\\marcv\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marcv\\Documents\\My DEV\\github\\movietracker\\iReader\\iReader.API\\obj\\",
+        "outputPath": "D:\\Files.nosync\\My DEV\\github\\movietracker\\iReader\\iReader.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\marcv\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -56,6 +56,10 @@
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.5.0, )"
+            },
+            "System.Runtime": {
+              "target": "Package",
+              "version": "[4.3.1, )"
             }
           },
           "imports": [
@@ -77,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
