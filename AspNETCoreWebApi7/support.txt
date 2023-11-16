@@ -1,0 +1,7 @@
+
+*** based on :
+	https://medium.com/net-core/build-a-restful-web-api-with-asp-net-core-6-30747197e229
+
+
++++ SWAGGER :
+	https://learn.microsoft.com/en-us/aspnet/core/tutorials/web-api-help-pages-using-swagger?view=aspnetcore-6.0
