@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\AspNETCoreWebApi7.props" />
-</Project>

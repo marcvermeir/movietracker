@@ -1,3 +1,25 @@
 
 *** based on :
+	https://www.freecodecamp.org/news/an-awesome-guide-on-how-to-build-restful-apis-with-asp-net-core-87b818123e28/
 	https://medium.com/net-core/build-a-restful-web-api-with-asp-net-core-6-30747197e229
+
+
+	https://medium.com/net-core/how-to-build-a-restful-api-with-asp-net-core-fb7dd8d3e5e3
+
+
+	&&&
+		https://www.learmoreseekmore.com/2022/11/dotnet7-api-crud-efcore.html
+		https://github.com/fernandovmp/todo-list
+		https://dotnet.microsoft.com/en-us/apps/aspnet/apis
+		https://medium.com/@ehtemam/creating-an-api-for-todo-list-with-graphql-and-net-core-webapi-7d423936bafb
+
+*** REACTJS :
+		https://www.freecodecamp.org/news/build-consume-and-document-a-rest-api/#how-to-consume-a-rest-api-on-a-front-end-react-app
+
+
++++ SWAGGER :
+	https://learn.microsoft.com/en-us/aspnet/core/tutorials/web-api-help-pages-using-swagger?view=aspnetcore-6.0
+
+
++++ 
+	https://medium.com/@thembinkosimsibi198/build-a-todo-list-application-using-net-5-0-web-api-and-microsoft-sql-server-3a0bd5b0d276

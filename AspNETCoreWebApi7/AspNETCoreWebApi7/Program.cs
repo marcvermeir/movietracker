@@ -31,6 +31,9 @@ namespace AspNETCoreWebApi7
             app.MapControllers();
 
             app.Run();
+
+            //TODO: quid app.UseDeveloperExceptionPage(); ???
+            //TODO: quid API versioning ???
         }
     }
 }
