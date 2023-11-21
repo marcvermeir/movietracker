@@ -1,0 +1,7 @@
+
+* based on :	
+	https://learn.microsoft.com/en-us/aspnet/core/tutorials/min-web-api?view=aspnetcore-8.0&tabs=visual-studio
+
++++ 
+	https://jasonwatmore.com/post/2022/03/15/net-6-crud-api-example-and-tutorial
+	https://www.freecodecamp.org/news/an-awesome-guide-on-how-to-build-restful-apis-with-asp-net-core-87b818123e28/

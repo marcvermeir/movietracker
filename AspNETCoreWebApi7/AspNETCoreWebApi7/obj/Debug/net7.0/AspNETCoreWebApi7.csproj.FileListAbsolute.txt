@@ -1,8 +1,0 @@
-D:\Files.nosync\My DEV\github\movietracker\AspNETCoreWebApi7\AspNETCoreWebApi7\obj\Debug\net7.0\AspNETCoreWebApi7.csproj.AssemblyReference.cache
-D:\Files.nosync\My DEV\github\movietracker\AspNETCoreWebApi7\AspNETCoreWebApi7\obj\Debug\net7.0\AspNETCoreWebApi7.GeneratedMSBuildEditorConfig.editorconfig
-D:\Files.nosync\My DEV\github\movietracker\AspNETCoreWebApi7\AspNETCoreWebApi7\obj\Debug\net7.0\AspNETCoreWebApi7.AssemblyInfoInputs.cache
-D:\Files.nosync\My DEV\github\movietracker\AspNETCoreWebApi7\AspNETCoreWebApi7\obj\Debug\net7.0\AspNETCoreWebApi7.AssemblyInfo.cs
-D:\Files.nosync\My DEV\github\movietracker\AspNETCoreWebApi7\AspNETCoreWebApi7\obj\Debug\net7.0\AspNETCoreWebApi7.csproj.CoreCompileInputs.cache
-D:\Files.nosync\My DEV\github\movietracker\AspNETCoreWebApi7\AspNETCoreWebApi7\obj\Debug\net7.0\AspNETCoreWebApi7.MvcApplicationPartsAssemblyInfo.cs
-D:\Files.nosync\My DEV\github\movietracker\AspNETCoreWebApi7\AspNETCoreWebApi7\obj\Debug\net7.0\AspNETCoreWebApi7.MvcApplicationPartsAssemblyInfo.cache
-D:\Files.nosync\My DEV\github\movietracker\AspNETCoreWebApi7\AspNETCoreWebApi7\obj\Debug\net7.0\AspNETCoreWebApi7.sourcelink.json
