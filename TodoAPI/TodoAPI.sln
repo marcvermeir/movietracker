@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TodoAPI", "TodoAPI\TodoAPI.csproj", "{9514E25A-DA87-4C5B-BEE0-2DE1B1F1837A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "support", "support", "{E8D5857C-D17E-4D63-9692-42A0B0ADD0D7}"
+	ProjectSection(SolutionItems) = preProject
+		support.txt = support.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDo.Data", "ToDo.Data\ToDo.Data.csproj", "{44A50F02-EA1C-4AEF-A40B-43FC890871FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9514E25A-DA87-4C5B-BEE0-2DE1B1F1837A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9514E25A-DA87-4C5B-BEE0-2DE1B1F1837A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9514E25A-DA87-4C5B-BEE0-2DE1B1F1837A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9514E25A-DA87-4C5B-BEE0-2DE1B1F1837A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44A50F02-EA1C-4AEF-A40B-43FC890871FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44A50F02-EA1C-4AEF-A40B-43FC890871FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44A50F02-EA1C-4AEF-A40B-43FC890871FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44A50F02-EA1C-4AEF-A40B-43FC890871FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A09C923F-085D-4D18-A858-438F90A7419E}
+	EndGlobalSection
+EndGlobal
