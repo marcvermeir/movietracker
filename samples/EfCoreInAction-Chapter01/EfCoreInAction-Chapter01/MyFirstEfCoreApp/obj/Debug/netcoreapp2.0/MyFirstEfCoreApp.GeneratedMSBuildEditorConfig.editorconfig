@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = MyFirstEfCoreApp
+build_property.ProjectDir = d:\Files.nosync\My DEV\github\movietracker\samples\EfCoreInAction-Chapter01\EfCoreInAction-Chapter01\MyFirstEfCoreApp\

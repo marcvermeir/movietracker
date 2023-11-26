@@ -1,0 +1,12 @@
+D:\Files.nosync\My DEV\_samples\spa-webapi-angularjs-master\spa-webapi-angularjs-master\HomeCinema.Entities\bin\Debug\HomeCinema.Entities.dll
+D:\Files.nosync\My DEV\_samples\spa-webapi-angularjs-master\spa-webapi-angularjs-master\HomeCinema.Entities\bin\Debug\HomeCinema.Entities.pdb
+D:\Files.nosync\My DEV\_samples\spa-webapi-angularjs-master\spa-webapi-angularjs-master\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.csproj.CoreCompileInputs.cache
+D:\Files.nosync\My DEV\_samples\spa-webapi-angularjs-master\spa-webapi-angularjs-master\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.dll
+D:\Files.nosync\My DEV\_samples\spa-webapi-angularjs-master\spa-webapi-angularjs-master\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.pdb
+D:\Files.nosync\My DEV\_samples\spa-webapi-angularjs-master\spa-webapi-angularjs-master\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.csprojAssemblyReference.cache
+D:\Files.nosync\My DEV\_samples_c#\spa-webapi-angularjs-master\spa-webapi-angularjs-master\HomeCinema.Entities\bin\Debug\HomeCinema.Entities.dll
+D:\Files.nosync\My DEV\_samples_c#\spa-webapi-angularjs-master\spa-webapi-angularjs-master\HomeCinema.Entities\bin\Debug\HomeCinema.Entities.pdb
+D:\Files.nosync\My DEV\_samples_c#\spa-webapi-angularjs-master\spa-webapi-angularjs-master\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.csproj.AssemblyReference.cache
+D:\Files.nosync\My DEV\_samples_c#\spa-webapi-angularjs-master\spa-webapi-angularjs-master\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.csproj.CoreCompileInputs.cache
+D:\Files.nosync\My DEV\_samples_c#\spa-webapi-angularjs-master\spa-webapi-angularjs-master\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.dll
+D:\Files.nosync\My DEV\_samples_c#\spa-webapi-angularjs-master\spa-webapi-angularjs-master\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.pdb
