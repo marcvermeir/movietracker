@@ -1,9 +1,0 @@
-
-MovieTracker.2019 (.aspnetcore)
-
->> dotnet new mvc --auth Individual -o MovieTracker
->> cd MovieTracker
->> dotnet restore
->> dotnet build
->> dotnet run
->> git init
