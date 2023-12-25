@@ -1,0 +1,16 @@
+C:\Users\marcv\Documents\My DEV\github\movietracker\MediaTracker\Infra\bin\Debug\net8.0\Infra.deps.json
+C:\Users\marcv\Documents\My DEV\github\movietracker\MediaTracker\Infra\bin\Debug\net8.0\Infra.dll
+C:\Users\marcv\Documents\My DEV\github\movietracker\MediaTracker\Infra\bin\Debug\net8.0\Infra.pdb
+C:\Users\marcv\Documents\My DEV\github\movietracker\MediaTracker\Infra\bin\Debug\net8.0\Core.dll
+C:\Users\marcv\Documents\My DEV\github\movietracker\MediaTracker\Infra\bin\Debug\net8.0\Core.pdb
+C:\Users\marcv\Documents\My DEV\github\movietracker\MediaTracker\Infra\obj\Debug\net8.0\Infra.csproj.AssemblyReference.cache
+C:\Users\marcv\Documents\My DEV\github\movietracker\MediaTracker\Infra\obj\Debug\net8.0\Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcv\Documents\My DEV\github\movietracker\MediaTracker\Infra\obj\Debug\net8.0\Infra.AssemblyInfoInputs.cache
+C:\Users\marcv\Documents\My DEV\github\movietracker\MediaTracker\Infra\obj\Debug\net8.0\Infra.AssemblyInfo.cs
+C:\Users\marcv\Documents\My DEV\github\movietracker\MediaTracker\Infra\obj\Debug\net8.0\Infra.csproj.CoreCompileInputs.cache
+C:\Users\marcv\Documents\My DEV\github\movietracker\MediaTracker\Infra\obj\Debug\net8.0\Infra.sourcelink.json
+C:\Users\marcv\Documents\My DEV\github\movietracker\MediaTracker\Infra\obj\Debug\net8.0\Infra.csproj.CopyComplete
+C:\Users\marcv\Documents\My DEV\github\movietracker\MediaTracker\Infra\obj\Debug\net8.0\Infra.dll
+C:\Users\marcv\Documents\My DEV\github\movietracker\MediaTracker\Infra\obj\Debug\net8.0\refint\Infra.dll
+C:\Users\marcv\Documents\My DEV\github\movietracker\MediaTracker\Infra\obj\Debug\net8.0\Infra.pdb
+C:\Users\marcv\Documents\My DEV\github\movietracker\MediaTracker\Infra\obj\Debug\net8.0\ref\Infra.dll
