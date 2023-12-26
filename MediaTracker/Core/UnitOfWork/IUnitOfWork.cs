@@ -1,6 +1,6 @@
-﻿using Infra.Repositories.Interfaces;
+﻿using Core.Repositories;
 
-namespace Infra.UnitOfWork.Interfaces
+namespace Core.UnitOfWork
 {
     /// <summary>
     /// Unit of Work Interface.

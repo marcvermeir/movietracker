@@ -1,7 +1,6 @@
 ﻿using Core.Entities;
-using Infra.Repositories.Base.Interfaces;
 
-namespace Infra.Repositories.Interfaces
+namespace Core.Repositories
 {
     public interface IUserRepository : IBaseRepository<User>
     {

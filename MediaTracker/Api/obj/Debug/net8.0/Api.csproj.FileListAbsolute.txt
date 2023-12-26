@@ -1,3 +1,6 @@
+C:\Users\marcv\Documents\My DEV\github\movietracker\MediaTracker\Api\obj\Debug\net8.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcv\Documents\My DEV\github\movietracker\MediaTracker\Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\marcv\Documents\My DEV\github\movietracker\MediaTracker\Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\marcv\Documents\My DEV\github\movietracker\MediaTracker\Api\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\marcv\Documents\My DEV\github\movietracker\MediaTracker\Api\bin\Debug\net8.0\appsettings.json
 C:\Users\marcv\Documents\My DEV\github\movietracker\MediaTracker\Api\bin\Debug\net8.0\Api.exe
@@ -41,8 +44,6 @@ C:\Users\marcv\Documents\My DEV\github\movietracker\MediaTracker\Api\bin\Debug\n
 C:\Users\marcv\Documents\My DEV\github\movietracker\MediaTracker\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
 C:\Users\marcv\Documents\My DEV\github\movietracker\MediaTracker\Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\marcv\Documents\My DEV\github\movietracker\MediaTracker\Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\marcv\Documents\My DEV\github\movietracker\MediaTracker\Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\marcv\Documents\My DEV\github\movietracker\MediaTracker\Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\marcv\Documents\My DEV\github\movietracker\MediaTracker\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\marcv\Documents\My DEV\github\movietracker\MediaTracker\Api\bin\Debug\net8.0\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
 C:\Users\marcv\Documents\My DEV\github\movietracker\MediaTracker\Api\bin\Debug\net8.0\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
@@ -57,7 +58,6 @@ C:\Users\marcv\Documents\My DEV\github\movietracker\MediaTracker\Api\bin\Debug\n
 C:\Users\marcv\Documents\My DEV\github\movietracker\MediaTracker\Api\bin\Debug\net8.0\Core.pdb
 C:\Users\marcv\Documents\My DEV\github\movietracker\MediaTracker\Api\bin\Debug\net8.0\Infra.pdb
 C:\Users\marcv\Documents\My DEV\github\movietracker\MediaTracker\Api\obj\Debug\net8.0\Api.csproj.AssemblyReference.cache
-C:\Users\marcv\Documents\My DEV\github\movietracker\MediaTracker\Api\obj\Debug\net8.0\Api.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\marcv\Documents\My DEV\github\movietracker\MediaTracker\Api\obj\Debug\net8.0\Api.AssemblyInfoInputs.cache
 C:\Users\marcv\Documents\My DEV\github\movietracker\MediaTracker\Api\obj\Debug\net8.0\Api.AssemblyInfo.cs
 C:\Users\marcv\Documents\My DEV\github\movietracker\MediaTracker\Api\obj\Debug\net8.0\Api.csproj.CoreCompileInputs.cache

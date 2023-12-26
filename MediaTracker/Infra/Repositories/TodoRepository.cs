@@ -1,7 +1,7 @@
 ﻿using Core.Entities;
+using Core.Repositories;
 using Infra.Contexts;
 using Infra.Repositories.Base;
-using Infra.Repositories.Interfaces;
 
 namespace Infra.Repositories
 {

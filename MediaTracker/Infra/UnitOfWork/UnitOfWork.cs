@@ -1,7 +1,7 @@
-﻿using Infra.Contexts;
+﻿using Core.Repositories;
+using Core.UnitOfWork;
+using Infra.Contexts;
 using Infra.Repositories;
-using Infra.Repositories.Interfaces;
-using Infra.UnitOfWork.Interfaces;
 
 namespace Infra.UnitOfWork
 {

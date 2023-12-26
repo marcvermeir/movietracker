@@ -1,6 +1,7 @@
+using Core.Services;
+using Core.UnitOfWork;
 using Infra.Contexts;
 using Infra.UnitOfWork;
-using Infra.UnitOfWork.Interfaces;
 using Microsoft.AspNetCore.Authentication.Negotiate;
 using Microsoft.EntityFrameworkCore;
 
@@ -33,6 +34,7 @@ namespace Api
             builder.Services.AddDbContext<AppDbContext>(options =>
                 options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
+            builder.Services.AddScoped<ITodoService, TodoService>();
             builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 
             var app = builder.Build();

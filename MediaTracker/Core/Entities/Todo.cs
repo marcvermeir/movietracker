@@ -1,6 +1,4 @@
-﻿using Core.Interfaces;
-
-namespace Core.Entities
+﻿namespace Core.Entities
 {
     /// <summary>
     /// Represents a 'Todo' item.
