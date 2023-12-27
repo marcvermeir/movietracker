@@ -1,6 +1,5 @@
 ﻿using Core.Entities;
 using Core.Services;
-using Core.UnitOfWork;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Api.Controllers
@@ -31,21 +30,33 @@ namespace Api.Controllers
 
         #region Methods
 
-        /* 
-        [HttpGet(Name = "GetTodos")]
-        public async Task<IEnumerable<Todo>> GetAsync()
+        /*  //TODO: ??? quid implementation of multiple GET methods ???
+        [HttpGet(Name = "GetAllTodos")]
+        public async Task<IEnumerable<Todo>> GetAllAsync()
         {
-            return await _unitOfWork.TodoRepository.GetAllAsync();
+            return await _todoService.GetTodosAsync();
         }
         */
 
-        [HttpGet(Name = "GetTodos4User")]
+        [HttpGet(Name = "Get4User")]
         public async Task<IEnumerable<Todo>> Get4UserAsync()
         {
             //TODO: get the id of the current user
             return await _todoService.GetTodos4UserAsync(userId: 1);
         }
-        
+
+        [HttpPost(Name = "Post")]
+        public async Task<Todo> PostAsync(Todo todo)
+        {
+            //TODO: quid checking if todo == valid ???
+            //TODO: quid checking if todo already exists ???
+
+            return await _todoService.AddTodoAsync(todo);
+        }
+
+        //TODO: >>> add Update (= HttpPut) & Delete (= HttpDelete) methods 4 Todo(s
+        //>>> https://positiwise.com/blog/web-api-for-crud-operations-in-net-6
+
         #endregion
     }
 }

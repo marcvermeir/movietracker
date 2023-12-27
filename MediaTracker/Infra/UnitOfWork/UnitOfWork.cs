@@ -16,10 +16,10 @@ namespace Infra.UnitOfWork
     {
         #region Properties
 
-        private TodoRepository _todoRepository;
+        private TodoRepository? _todoRepository;
         public ITodoRepository TodoRepository => _todoRepository ?? (_todoRepository = new TodoRepository(_dbContext));
 
-        private UserRepository _userRepository;
+        private UserRepository? _userRepository;
         public IUserRepository UserRepository => _userRepository ?? (_userRepository = new UserRepository(_dbContext));
 
         #endregion
