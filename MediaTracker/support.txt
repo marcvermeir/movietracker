@@ -1,5 +1,16 @@
 *** based on :
 	# https://jonathancrozier.com/blog/implementing-an-async-repository-and-unit-of-work-with-entity-framework-core
+	# https://jasonwatmore.com/post/2022/02/04/net-6-minimal-api-tutorial-and-example
+
 
 ** EFx CORE :
 	# https://www.entityframeworktutorial.net/efcore/entity-framework-core.aspx
+
+** Configuration in ASP.NET Core : 
+	# https://learn.microsoft.com/en-us/aspnet/core/fundamentals/configuration/?view=aspnetcore-8.0
+
+** MS BUILD :
+	# https://learn.microsoft.com/en-us/visualstudio/msbuild/msbuild?view=vs-2022
+
+** .NET Project SDKs :
+	# https://learn.microsoft.com/en-us/dotnet/core/project-sdk/overview
