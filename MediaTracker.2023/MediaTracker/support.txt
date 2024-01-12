@@ -1,0 +1,6 @@
+*** based on :
+	# (1)	https://medium.com/@mxcmxc/unit-of-work-with-repository-pattern-boilerplate-518726e4beb7
+		(2) https://medium.com/@mxcmxc/unit-of-work-with-the-repository-pattern-boilerplate-part-2-b7ae88ec071c
+
+
+>>> //TODO: add a similar Command as in UOWDemo project ..
