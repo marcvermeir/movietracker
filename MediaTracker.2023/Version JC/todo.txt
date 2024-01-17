@@ -1,0 +1,4 @@
+
+* FluentValidation of Models ?!
+* ErrorOr ?
+** Specification Pattern ?!

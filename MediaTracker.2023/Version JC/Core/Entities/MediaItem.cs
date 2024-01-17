@@ -1,40 +1,43 @@
-﻿////namespace Core.Entities
-////{
-////    public class MediaItem : IEntity
-////    {
-////        #region Properties
+﻿using System.ComponentModel.DataAnnotations;
 
-////        public enum MediaType
-////        {
-////            Movie,
-////            TVShow
-////        }
+namespace Core.Entities
+{
+    public class MediaItem : IEntity
+    {
+        #region Properties
 
+        public enum MediaTypeEnum
+        {
+            Book,
+            Movie,
+            TVShow
+        }
 
-////        public int Id { get; set; }
+        public enum PriorityEnum
+        {
+            Low,
+            Normal,
+            High,
+            Asap
+        }
 
-////        public string Title { get; set; }
+        [Key]
+        public long Id { get; set; }
 
-////        public string Director { get; set; }
+        //TODO: MaxLength
+        public required string Title { get; set; }
 
-////        public DateOnly YearOfRelease { get; set; }
+        //TODO: MaxLength
+        public required string DirectorOrAuthor { get; set; }
 
-////        public string Status { get; set; }
+        public DateOnly YearOfRelease { get; set; }
 
-////        public MediaType Media {  get; set; } 
-        
-////        #endregion
+        public PriorityEnum Priority { get; set; }
 
-////        #region Ctor
+        public MediaTypeEnum MediaType { get; set; }
 
-////        public MediaItem(int id, string title, string director, MediaType media)
-////        {
-////            Id = id;
-////            Title = title;
-////            Director = director;
-////            Media = media;
-////        }
+        public DateOnly? Consumed { get; set; }
 
-////        #endregion
-////    }
-////}
+        #endregion
+    }
+}

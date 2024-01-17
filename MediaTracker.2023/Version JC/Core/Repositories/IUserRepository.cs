@@ -1,8 +1,8 @@
-﻿using Core.Entities;
+﻿////using Core.Obsolete;
 
-namespace Core.Repositories
-{
-    public interface IUserRepository : IBaseRepository<User>
-    {
-    }
-}
+////namespace Core.Repositories
+////{
+////    public interface IUserRepository : IBaseRepository<User>
+////    {
+////    }
+////}

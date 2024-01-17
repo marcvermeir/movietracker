@@ -1,6 +1,5 @@
 ﻿namespace Infra.Contexts
 {
-    using Core.Entities;
     using Microsoft.EntityFrameworkCore;
 
     public class DbInitializer
@@ -14,24 +13,24 @@
 
         public void Seed()
         {
-            _builder.Entity<User>(u =>
-            {
-                u.HasData(new User
-                {
-                    Id = 1,
-                    Username = "Marc VERMEIR"
-                });
-                u.HasData(new User
-                {
-                    Id = 2,
-                    Username = "Brigitta VAN TOLHUYSEN"
-                });
-            });
+            //TODO: >>>
+            //_builder.Entity<User>(u =>
+            //{
+            //    u.HasData(new User
+            //    {
+            //        Id = 1,
+            //        Username = "Marc VERMEIR"
+            //    });
+            //    u.HasData(new User
+            //    {
+            //        Id = 2,
+            //        Username = "Brigitta VAN TOLHUYSEN"
+            //    });
+            //});
 
 
 
-            /* //TODO: >>>
-             * 
+            /* 
             _builder.Entity<Author>(a =>
             {
                 a.HasData(new Author

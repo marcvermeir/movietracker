@@ -1,6 +1,4 @@
-﻿using Core.Repositories;
-using Core.UnitOfWork;
-using Infra.Contexts;
+﻿using Infra.Contexts;
 using Infra.Repositories;
 
 namespace Infra.UnitOfWork
@@ -16,8 +14,8 @@ namespace Infra.UnitOfWork
     {
         #region Properties
 
-        private UserRepository? _userRepository;
-        public IUserRepository UserRepository => _userRepository ?? (_userRepository = new UserRepository(_dbContext));
+        private IMediaItemRepository? _mediaItemRepository;
+        public IMediaItemRepository MediaItemRepository => _mediaItemRepository ?? (_mediaItemRepository = new MediaItemRepository(_dbContext));
 
         #endregion
 

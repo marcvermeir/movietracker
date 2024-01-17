@@ -7,7 +7,7 @@ namespace Infra.Contexts
     {
         #region Properties
 
-        public DbSet<User> Users { get; set; }
+        public DbSet<MediaItem> MediaItems { get; set; }
 
         #endregion
 

@@ -1,22 +1,22 @@
-﻿using Core.Repositories;
+﻿////using Core.Repositories;
 
-namespace Core.UnitOfWork
-{
-    /// <summary>
-    /// Unit of Work Interface.
-    /// </summary>
-    public interface IUnitOfWork : IAsyncDisposable
-    {
-        #region Properties
+////namespace Core.UnitOfWork
+////{
+////    /// <summary>
+////    /// Unit of Work Interface.
+////    /// </summary>
+////    public interface IUnitOfWork : IAsyncDisposable
+////    {
+////        #region Properties
 
-        IUserRepository UserRepository { get; }
+////        IUserRepository UserRepository { get; }
 
-        #endregion
+////        #endregion
 
-        #region Methods
+////        #region Methods
 
-        Task CompleteAsync();
+////        Task CompleteAsync();
 
-        #endregion
-    }
-}
+////        #endregion
+////    }
+////}

@@ -1,6 +1,6 @@
 ﻿using Api.Resources;
 using AutoMapper;
-using Core.Entities;
+using Core.Obsolete;
 
 namespace Api.Mapper
 {
@@ -8,7 +8,7 @@ namespace Api.Mapper
     {
         public UserProfile() 
         {
-            CreateMap<User, UserResource>()
+            CreateMap<User, MediaItemResource>()
                 .ForMember(t => t.Id, o => o.MapFrom(t => t.Id))
                 .ForMember(t => t.Username, o => o.MapFrom(t => t.Username))
                 .ReverseMap();
