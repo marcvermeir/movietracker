@@ -19,6 +19,7 @@ namespace Infra.Contexts
         /// <param name="options">The options to use</param>
         public AppDbContext(DbContextOptions<AppDbContext> options) : base(options)
         {
+            //TODO: >>> disable Lazy Loading / Change Tracking / ...
         }
 
         #endregion

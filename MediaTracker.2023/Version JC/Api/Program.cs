@@ -1,4 +1,5 @@
-using Core.UnitOfWork;
+using Api.Services;
+using Core.Services;
 using Infra.Contexts;
 using Infra.UnitOfWork;
 using Microsoft.AspNetCore.Authentication.Negotiate;
@@ -37,7 +38,7 @@ namespace Api
             //});
 
 
-            //builder.Services.AddScoped<ITodoService, TodoService>();
+            builder.Services.AddScoped<IMediaService, MediaService>();
             builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
             builder.Services.AddAutoMapper(Assembly.GetExecutingAssembly());
 

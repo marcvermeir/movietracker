@@ -944,3 +944,5 @@ D:\Files.nosync\My DEV\github\movietracker\MediaTracker.2023\Version JC\Api\obj\
 D:\Files.nosync\My DEV\github\movietracker\MediaTracker.2023\Version JC\Api\obj\Debug\net8.0\ref\Api.dll
 D:\Files.nosync\My DEV\github\movietracker\MediaTracker.2023\Version JC\Api\bin\Debug\net8.0\AutoMapper.dll
 D:\Files.nosync\My DEV\github\movietracker\MediaTracker.2023\Version JC\Api\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Files.nosync\My DEV\github\movietracker\MediaTracker.2023\Version JC\Api\bin\Debug\net8.0\FluentValidation.dll
+D:\Files.nosync\My DEV\github\movietracker\MediaTracker.2023\Version JC\Api\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll

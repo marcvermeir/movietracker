@@ -4,16 +4,34 @@
     {
         #region Properties
 
-        /// <summary>
-        /// The unique ID of the MediaItem.
-        /// </summary>
+        public enum MediaTypeEnum
+        {
+            Book = 1,
+            Movie,
+            TVShow
+        }
+
+        public enum PriorityEnum
+        {
+            Low = 1,
+            Normal,
+            High,
+            Asap
+        }
+
         public long Id { get; set; }
 
-        //TODO: >>>
-        ///// <summary>
-        ///// The Username of the User.
-        ///// </summary>
-        //public required string Username { get; set; }
+        public required string Title { get; set; }
+
+        public required string DirectorOrAuthor { get; set; }
+
+        public DateOnly YearOfRelease { get; set; }
+
+        public PriorityEnum Priority { get; set; }
+
+        public MediaTypeEnum MediaType { get; set; }
+
+        public DateOnly? Consumed { get; set; }
 
         #endregion
     }
