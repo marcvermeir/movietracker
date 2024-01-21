@@ -33,6 +33,15 @@
 
         public DateOnly? Consumed { get; set; }
 
+
+        public string TitleLong
+        {
+            get
+            {
+                return $"{Title} - {DirectorOrAuthor}";
+            }
+        }
+
         #endregion
     }
 }

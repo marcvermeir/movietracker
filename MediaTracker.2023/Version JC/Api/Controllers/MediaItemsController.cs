@@ -1,4 +1,6 @@
-﻿using Core.Services;
+﻿using Api.Resources;
+using AutoMapper;
+using Core.Services;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Api.Controllers
@@ -7,6 +9,8 @@ namespace Api.Controllers
     [ApiController]
     public class MediaItemsController : ControllerBase
     {
+        private readonly IMapper _mapper;
+
         /* ////
         private List<MediaItem> _mediaItems = new List<MediaItem>
         {
@@ -19,20 +23,23 @@ namespace Api.Controllers
 
         private readonly IMediaService _mediaService;
 
-        public MediaItemsController(IMediaService mediaService) 
+        public MediaItemsController(IMediaService mediaService, IMapper mapper) 
         { 
             _mediaService = mediaService ?? throw new ArgumentNullException(nameof(mediaService));
+            _mapper = mapper ?? throw new ArgumentNullException(nameof(mapper));
         }   
 
 
         [HttpGet]
         public async Task<IActionResult> GetAllAsync()
         {
-            //TODO: >>> refactor with server-side pagination && returning a PagedResult
+            //TODO: ??? refactor with server-side pagination && returning a PagedResult
+
             var result = await _mediaService.GetAllMediaItemsAsync();
         
-            //TODO: >>> refactor with returning 'Resources' (<> Entities)
-            return Ok(result);
+            var model = _mapper.Map<List<MediaItemResource>>(result);
+
+            return Ok(model);
         }
 
 

@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using System.Collections.Generic;
 using System.Linq.Expressions;
 
 namespace Infra.Repositories.Base
@@ -127,6 +128,12 @@ namespace Infra.Repositories.Base
             }
 
             return await query.ToListAsync();
+        }
+
+        public async Task UpdateAsync(T entity)
+        {
+            _dbSet.Attach(entity);
+            _dbSet.Entry(entity).State = EntityState.Modified;
         }
 
         #endregion

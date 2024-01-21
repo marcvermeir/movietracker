@@ -946,3 +946,12 @@ D:\Files.nosync\My DEV\github\movietracker\MediaTracker.2023\Version JC\Api\bin\
 D:\Files.nosync\My DEV\github\movietracker\MediaTracker.2023\Version JC\Api\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 D:\Files.nosync\My DEV\github\movietracker\MediaTracker.2023\Version JC\Api\bin\Debug\net8.0\FluentValidation.dll
 D:\Files.nosync\My DEV\github\movietracker\MediaTracker.2023\Version JC\Api\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Files.nosync\My DEV\github\movietracker\MediaTracker.2023\Version JC\Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+D:\Files.nosync\My DEV\github\movietracker\MediaTracker.2023\Version JC\Api\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+D:\Files.nosync\My DEV\github\movietracker\MediaTracker.2023\Version JC\Api\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\Files.nosync\My DEV\github\movietracker\MediaTracker.2023\Version JC\Api\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
+D:\Files.nosync\My DEV\github\movietracker\MediaTracker.2023\Version JC\Api\bin\Debug\net8.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Files.nosync\My DEV\github\movietracker\MediaTracker.2023\Version JC\Api\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+D:\Files.nosync\My DEV\github\movietracker\MediaTracker.2023\Version JC\Api\bin\Debug\net8.0\Microsoft.Extensions.Features.dll
+D:\Files.nosync\My DEV\github\movietracker\MediaTracker.2023\Version JC\Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Files.nosync\My DEV\github\movietracker\MediaTracker.2023\Version JC\Api\bin\Debug\net8.0\Microsoft.JSInterop.dll
