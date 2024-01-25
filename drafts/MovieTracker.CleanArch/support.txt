@@ -1,3 +1,0 @@
-*** https://rijsat.com/clean-architecture-with-net-6/
-	https://rijsat.com/implementing-entity-framework-in-clean-architecture-with-net-6/
-	cd ..

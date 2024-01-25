@@ -4,7 +4,7 @@ using Infra.Repositories.Base;
 
 namespace Infra.Repositories
 {
-    public class MediaItemRepository : BaseRepository<MediaItem>, IMediaItemRepository  
+    public class MediaItemRepository : BaseRepository<MediaItem>, IMediaItemRepository
     {
         #region Constructor
 

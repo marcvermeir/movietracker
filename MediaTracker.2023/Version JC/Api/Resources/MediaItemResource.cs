@@ -33,12 +33,15 @@
 
         public DateOnly? Consumed { get; set; }
 
+        #endregion
+
+        #region Derived Properties
 
         public string TitleLong
         {
             get
             {
-                return $"{Title} - {DirectorOrAuthor}";
+                return $"{Title} - {DirectorOrAuthor} - {YearOfRelease}";
             }
         }
 

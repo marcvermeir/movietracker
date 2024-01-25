@@ -16,7 +16,6 @@
                                           int? top = null,
                                           int? skip = null,
                                           params string[] includeProperties);
-
         Task UpdateAsync(T entity);
 
         #endregion

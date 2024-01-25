@@ -1,4 +1,7 @@
 
-* FluentValidation of Models ?!
-* ErrorOr ?
-** Specification Pattern ?!
+° FluentValidation of Models ?!
+
+° ErrorOr ?
+° SERILOG ?
+
+* Specification Pattern ?!
