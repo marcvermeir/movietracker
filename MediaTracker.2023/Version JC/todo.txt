@@ -1,7 +1,0 @@
-
-° FluentValidation of Models ?!
-
-° ErrorOr ?
-° SERILOG ?
-
-* Specification Pattern ?!
