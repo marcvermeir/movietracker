@@ -1,0 +1,17 @@
+
+* Specification Pattern ?!
+
+	https://codewithmukesh.com/blog/specification-pattern-in-aspnet-core/
+	https://codewithmukesh.com/blog/repository-pattern-in-aspnet-core/?utm_content=cmp-true
+
+	https://medium.com/@arjunarora171997/specification-design-pattern-8ce9f7897a83	
+	https://enterprisecraftsmanship.com/posts/specification-pattern-c-implementation/
+
+	https://enterprisecraftsmanship.com/posts/cqrs-vs-specification-pattern/
+
+
+° FluentValidation of Models ?!
+
+° ErrorOr ?
+° SERILOG ?
+

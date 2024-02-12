@@ -1,0 +1,12 @@
+D:\Files.nosync\My DEV\github\movietracker\MediaTracker.2023\Version JC\MT.Infra\bin\Debug\net8.0\MT.Infra.deps.json
+D:\Files.nosync\My DEV\github\movietracker\MediaTracker.2023\Version JC\MT.Infra\bin\Debug\net8.0\MT.Infra.dll
+D:\Files.nosync\My DEV\github\movietracker\MediaTracker.2023\Version JC\MT.Infra\bin\Debug\net8.0\MT.Infra.pdb
+D:\Files.nosync\My DEV\github\movietracker\MediaTracker.2023\Version JC\MT.Infra\obj\Debug\net8.0\MT.Infra.GeneratedMSBuildEditorConfig.editorconfig
+D:\Files.nosync\My DEV\github\movietracker\MediaTracker.2023\Version JC\MT.Infra\obj\Debug\net8.0\MT.Infra.AssemblyInfoInputs.cache
+D:\Files.nosync\My DEV\github\movietracker\MediaTracker.2023\Version JC\MT.Infra\obj\Debug\net8.0\MT.Infra.AssemblyInfo.cs
+D:\Files.nosync\My DEV\github\movietracker\MediaTracker.2023\Version JC\MT.Infra\obj\Debug\net8.0\MT.Infra.csproj.CoreCompileInputs.cache
+D:\Files.nosync\My DEV\github\movietracker\MediaTracker.2023\Version JC\MT.Infra\obj\Debug\net8.0\MT.Infra.sourcelink.json
+D:\Files.nosync\My DEV\github\movietracker\MediaTracker.2023\Version JC\MT.Infra\obj\Debug\net8.0\MT.Infra.dll
+D:\Files.nosync\My DEV\github\movietracker\MediaTracker.2023\Version JC\MT.Infra\obj\Debug\net8.0\refint\MT.Infra.dll
+D:\Files.nosync\My DEV\github\movietracker\MediaTracker.2023\Version JC\MT.Infra\obj\Debug\net8.0\MT.Infra.pdb
+D:\Files.nosync\My DEV\github\movietracker\MediaTracker.2023\Version JC\MT.Infra\obj\Debug\net8.0\ref\MT.Infra.dll
