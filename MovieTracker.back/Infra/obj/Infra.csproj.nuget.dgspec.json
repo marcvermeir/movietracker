@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Files.nosync\\My DEV\\github\\movietracker\\MovieTracker\\Infra\\Infra.csproj": {}
+    "D:\\Files.nosync\\My DEV\\github\\movietracker\\MovieTracker.back\\Infra\\Infra.csproj": {}
   },
   "projects": {
-    "D:\\Files.nosync\\My DEV\\github\\movietracker\\MovieTracker\\Core\\Core.csproj": {
+    "D:\\Files.nosync\\My DEV\\github\\movietracker\\MovieTracker.back\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Files.nosync\\My DEV\\github\\movietracker\\MovieTracker\\Core\\Core.csproj",
+        "projectUniqueName": "D:\\Files.nosync\\My DEV\\github\\movietracker\\MovieTracker.back\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "D:\\Files.nosync\\My DEV\\github\\movietracker\\MovieTracker\\Core\\Core.csproj",
+        "projectPath": "D:\\Files.nosync\\My DEV\\github\\movietracker\\MovieTracker.back\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\marcv\\.nuget\\packages\\",
-        "outputPath": "D:\\Files.nosync\\My DEV\\github\\movietracker\\MovieTracker\\Core\\obj\\",
+        "outputPath": "D:\\Files.nosync\\My DEV\\github\\movietracker\\MovieTracker.back\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -50,28 +50,22 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Files.nosync\\My DEV\\github\\movietracker\\MovieTracker\\Infra\\Infra.csproj": {
+    "D:\\Files.nosync\\My DEV\\github\\movietracker\\MovieTracker.back\\Infra\\Infra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Files.nosync\\My DEV\\github\\movietracker\\MovieTracker\\Infra\\Infra.csproj",
+        "projectUniqueName": "D:\\Files.nosync\\My DEV\\github\\movietracker\\MovieTracker.back\\Infra\\Infra.csproj",
         "projectName": "Infra",
-        "projectPath": "D:\\Files.nosync\\My DEV\\github\\movietracker\\MovieTracker\\Infra\\Infra.csproj",
+        "projectPath": "D:\\Files.nosync\\My DEV\\github\\movietracker\\MovieTracker.back\\Infra\\Infra.csproj",
         "packagesPath": "C:\\Users\\marcv\\.nuget\\packages\\",
-        "outputPath": "D:\\Files.nosync\\My DEV\\github\\movietracker\\MovieTracker\\Infra\\obj\\",
+        "outputPath": "D:\\Files.nosync\\My DEV\\github\\movietracker\\MovieTracker.back\\Infra\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -93,8 +87,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Files.nosync\\My DEV\\github\\movietracker\\MovieTracker\\Core\\Core.csproj": {
-                "projectPath": "D:\\Files.nosync\\My DEV\\github\\movietracker\\MovieTracker\\Core\\Core.csproj"
+              "D:\\Files.nosync\\My DEV\\github\\movietracker\\MovieTracker.back\\Core\\Core.csproj": {
+                "projectPath": "D:\\Files.nosync\\My DEV\\github\\movietracker\\MovieTracker.back\\Core\\Core.csproj"
               }
             }
           }
@@ -108,29 +102,17 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "dependencies": {
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[8.0.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
         }
       }
     }

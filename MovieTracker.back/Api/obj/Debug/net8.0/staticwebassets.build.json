@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "B6Ffp+IJdnHribjtkskBl8f9wvdJ1bjgj5WlcHBBEL8=",
+  "Hash": "PvyEhfGEVbkbEug6a8rKCp8aLYQkwFe0O9X84GjGMDc=",
   "Source": "Api",
   "BasePath": "_content/Api",
   "Mode": "Default",
@@ -47,10 +47,10 @@
       "OriginalItemSpec": "C:\\Users\\marcv\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.1\\staticwebassets\\QuickGrid.razor.js"
     },
     {
-      "Identity": "D:\\Files.nosync\\My DEV\\github\\movietracker\\MovieTracker\\Api\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Api.styles.css",
+      "Identity": "D:\\Files.nosync\\My DEV\\github\\movietracker\\MovieTracker.back\\Api\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Api.styles.css",
       "SourceId": "Api",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\Files.nosync\\My DEV\\github\\movietracker\\MovieTracker\\Api\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\Files.nosync\\My DEV\\github\\movietracker\\MovieTracker.back\\Api\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Api",
       "RelativePath": "Api.styles.css",
       "AssetKind": "All",
@@ -63,7 +63,7 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Files.nosync\\My DEV\\github\\movietracker\\MovieTracker\\Api\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Api.styles.css"
+      "OriginalItemSpec": "D:\\Files.nosync\\My DEV\\github\\movietracker\\MovieTracker.back\\Api\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Api.styles.css"
     }
   ]
 }

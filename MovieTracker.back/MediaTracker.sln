@@ -9,12 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infra", "Infra\Infra.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Api", "Api\Api.csproj", "{E7F8C372-C1E0-4844-A7BB-72B9EA80A68C}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "support", "support", "{2DE7B5ED-784B-4368-875B-BE6BE53F7FF0}"
-	ProjectSection(SolutionItems) = preProject
-		todo.txt = todo.txt
-	EndProjectSection
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Version JC", "Version JC", "{55C3D5C3-C0EF-4756-8E18-787B3F614752}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Version Jonathan Crozier", "Version Jonathan Crozier", "{55C3D5C3-C0EF-4756-8E18-787B3F614752}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
