@@ -5,8 +5,6 @@
 //TODO: Quid implementation of DDD .. Aggregates .. ??
 //
 
-using Microsoft.AspNetCore.Http.HttpResults;
-using Microsoft.OpenApi.Models;
 using MT.Api.Core.Domain;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -29,6 +27,7 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
+/* ////
 #region WeatherForecast
 
 var summaries = new[]
@@ -53,11 +52,13 @@ app.MapGet("/weatherforecast", () =>
 .WithOpenApi();
 
 #endregion
+*/
 
+/* ////
 #region Movies
 
 app.MapGet("/v1.0/movies", (IMovieService movieService) =>
-    TypedResults.Ok(movieService.GetMovies()))
+    TypedResults.Ok(movieService.GetMoviesAsync()))
     .WithName("GetMovies")
     .WithOpenApi(x => new OpenApiOperation(x)
     {
@@ -66,9 +67,9 @@ app.MapGet("/v1.0/movies", (IMovieService movieService) =>
         Tags = new List<OpenApiTag> { new() { Name = "MovieTracker" } }
     });
 
-app.MapGet("/v1.0/movies/{id}", Results<Ok<Movie>, NotFound> (IMovieService movieService, int id) =>
-        movieService.GetMovie(id) is { } movie
-            ? TypedResults.Ok(movie)
+app.MapGet("/v1.0/movies/{id}", Results<Ok<MovieResource>, NotFound> (IMovieService movieService, int id) =>
+        movieService.GetMovieAsync(id) is { } movieResource
+            ? TypedResults.Ok(movieResource)
             : TypedResults.NotFound()
     )
     .WithName("GetMovieById")
@@ -80,10 +81,13 @@ app.MapGet("/v1.0/movies/{id}", Results<Ok<Movie>, NotFound> (IMovieService movi
     });
 
 #endregion
+*/
 
 app.Run();
 
+/* ////
 internal record WeatherForecast(DateOnly Date, int TemperatureC, string? Summary)
 {
     public int TemperatureF => 32 + (int)(TemperatureC / 0.5556);
 }
+*/

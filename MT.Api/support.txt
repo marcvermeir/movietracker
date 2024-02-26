@@ -1,2 +1,0 @@
-
-*** https://medium.com/codenx/minimal-apis-in-net-8-a-simplified-approach-to-build-services-eb50df56819f
