@@ -1,39 +1,48 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using MT.Api.Core.Domain;
-using MT.Api.Data;
-using static Microsoft.EntityFrameworkCore.DbLoggerCategory;
+﻿using Core.Entities;
+using Core.Interfaces;
+using Core.Specification;
+using Microsoft.AspNetCore.Mvc;
+using System.Threading.Tasks;
 
-namespace MT.Api.Api.Controllers
+namespace API.Controllers
 {
-    [Route("api/v1.0/[controller]")]
+    [Route("api/[controller]")]
     [ApiController]
     public class MoviesController : ControllerBase
     {
-        private readonly IMovieService _movieService;
+        private readonly IGenericRepository<Movie> _repository;
 
-        public MoviesController(IMovieService movieService) 
-        { 
-            _movieService = movieService ?? throw new ArgumentNullException(nameof(movieService));
-
+        public MoviesController(IGenericRepository<Movie> repository)
+        {
+            _repository = repository;
         }
 
         [HttpGet]
-        public IActionResult GetMoviesAsync()
+        public async Task<IActionResult> GetAll()
         {
-            DataRequest<Movie> request = BuildDataRequest();
-
-            return Ok(_movieService.GetMoviesAsync(request));
+            var movies = await _repository.GetAllAsync();
+            
+            return Ok(movies);
         }
 
-
-        private DataRequest<Movie> BuildDataRequest()
+        [HttpGet("{id}")]
+        public async Task<IActionResult> GetById(int id)
         {
-            return new DataRequest<Movie>()
-            {
-                Query = Query,
-                OrderBy = ViewModelArgs.OrderBy,
-                OrderByDesc = ViewModelArgs.OrderByDesc
-            };
+            var movie = await _repository.GetByIdAsync(id);
+            
+            return Ok(movie);
+        }
+
+        [HttpGet("specify")]
+        public async Task<IActionResult> Specify()
+        {
+            //var specification = new DeveloperWithAddressSpecification(3);
+            var specification = new MovieByDirectorSpecification();
+ 
+            //TODO: Quid refactoring the following as an ASYNC method ?
+            var movies = _repository.FindWithSpecificationPattern(specification);
+            
+            return Ok(movies);
         }
     }
 }
