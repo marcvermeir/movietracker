@@ -1,7 +1,9 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Core.Entities
 {
+    [Table("MediaItems")]
     public class MediaItem : IEntity
     {
         #region Properties
@@ -35,6 +37,13 @@ namespace Core.Entities
         public DateOnly? Consumed { get; set; }
 
         //TODO: >>> add relation with Director 
+
+        [ForeignKey("Watchlist")]
+        public long WatchlistId { get; set; } // Required foreign key property
+
+        public required Watchlist Watchlist { get; set; }
+
+        // public Blog Blog { get; set; } = null!; // Required reference navigation to principal
 
         #endregion
     }

@@ -33,11 +33,6 @@ namespace Infra.Migrations
                     b.Property<DateOnly?>("Consumed")
                         .HasColumnType("date");
 
-                    b.Property<string>("DirectorOrAuthor")
-                        .IsRequired()
-                        .HasMaxLength(50)
-                        .HasColumnType("nvarchar(50)");
-
                     b.Property<int>("MediaType")
                         .HasColumnType("int");
 
@@ -49,12 +44,53 @@ namespace Infra.Migrations
                         .HasMaxLength(50)
                         .HasColumnType("nvarchar(50)");
 
+                    b.Property<long>("WatchlistId")
+                        .HasColumnType("bigint");
+
                     b.Property<DateOnly>("YearOfRelease")
                         .HasColumnType("date");
 
                     b.HasKey("Id");
 
+                    b.HasIndex("WatchlistId");
+
                     b.ToTable("MediaItems");
+                });
+
+            modelBuilder.Entity("Core.Entities.Watchlist", b =>
+                {
+                    b.Property<long>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("bigint");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<long>("Id"));
+
+                    b.Property<string>("Description")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Title")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Watchlists");
+                });
+
+            modelBuilder.Entity("Core.Entities.MediaItem", b =>
+                {
+                    b.HasOne("Core.Entities.Watchlist", "Watchlist")
+                        .WithMany("MediaItems")
+                        .HasForeignKey("WatchlistId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Watchlist");
+                });
+
+            modelBuilder.Entity("Core.Entities.Watchlist", b =>
+                {
+                    b.Navigation("MediaItems");
                 });
 #pragma warning restore 612, 618
         }

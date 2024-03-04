@@ -7,6 +7,8 @@ namespace Infra.Contexts
     {
         #region Properties
 
+        public DbSet<Watchlist> Watchlists { get; set; }
+
         public DbSet<MediaItem> MediaItems { get; set; }
 
         #endregion
