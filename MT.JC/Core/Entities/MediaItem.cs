@@ -11,7 +11,7 @@ namespace Core.Entities
         public enum MediaTypeEnum
         {
             Movie,
-            TVShow
+            TVShow,
         }
 
         public enum PriorityEnum

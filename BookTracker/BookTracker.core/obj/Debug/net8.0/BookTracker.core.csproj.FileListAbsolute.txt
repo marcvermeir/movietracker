@@ -1,0 +1,12 @@
+D:\Files.nosync\My DEV\github\movietracker\BookTracker\BookTracker.core\bin\Debug\net8.0\BookTracker.core.deps.json
+D:\Files.nosync\My DEV\github\movietracker\BookTracker\BookTracker.core\bin\Debug\net8.0\BookTracker.core.dll
+D:\Files.nosync\My DEV\github\movietracker\BookTracker\BookTracker.core\bin\Debug\net8.0\BookTracker.core.pdb
+D:\Files.nosync\My DEV\github\movietracker\BookTracker\BookTracker.core\obj\Debug\net8.0\BookTracker.core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Files.nosync\My DEV\github\movietracker\BookTracker\BookTracker.core\obj\Debug\net8.0\BookTracker.core.AssemblyInfoInputs.cache
+D:\Files.nosync\My DEV\github\movietracker\BookTracker\BookTracker.core\obj\Debug\net8.0\BookTracker.core.AssemblyInfo.cs
+D:\Files.nosync\My DEV\github\movietracker\BookTracker\BookTracker.core\obj\Debug\net8.0\BookTracker.core.csproj.CoreCompileInputs.cache
+D:\Files.nosync\My DEV\github\movietracker\BookTracker\BookTracker.core\obj\Debug\net8.0\BookTracker.core.sourcelink.json
+D:\Files.nosync\My DEV\github\movietracker\BookTracker\BookTracker.core\obj\Debug\net8.0\BookTracker.core.dll
+D:\Files.nosync\My DEV\github\movietracker\BookTracker\BookTracker.core\obj\Debug\net8.0\refint\BookTracker.core.dll
+D:\Files.nosync\My DEV\github\movietracker\BookTracker\BookTracker.core\obj\Debug\net8.0\BookTracker.core.pdb
+D:\Files.nosync\My DEV\github\movietracker\BookTracker\BookTracker.core\obj\Debug\net8.0\ref\BookTracker.core.dll
