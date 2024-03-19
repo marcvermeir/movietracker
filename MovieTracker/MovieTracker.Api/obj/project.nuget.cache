@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "zYkgJsfMfZRO06yylKbx945f41NPOeluDUmDVhuK+JU6RcJaPxCZkdhx1cjWHwkFYAtX0k5NHClyaRFwoL11wg==",
+  "success": true,
+  "projectFilePath": "D:\\Files.nosync\\My DEV\\github\\movietracker\\MovieTracker\\MovieTracker.Api\\MovieTracker.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marcv\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\marcv\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\marcv\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\marcv\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\marcv\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\marcv\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

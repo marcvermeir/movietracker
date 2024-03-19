@@ -3,59 +3,59 @@
   "WorkspaceRootPath": "D:\\Files.nosync\\My DEV\\github\\movietracker\\BookTracker\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{13E98961-7482-4A97-8E81-B2102EF85E7E}|BookTracker.data\\BookTracker.data.csproj|D:\\Files.nosync\\My DEV\\github\\movietracker\\BookTracker\\booktracker.data\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13E98961-7482-4A97-8E81-B2102EF85E7E}|BookTracker.data\\BookTracker.data.csproj|solutionrelative:booktracker.data\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AACE3594-5985-4CCD-9381-523AD5501ED3}|BookTracker.api\\BookTracker.api.csproj|d:\\files.nosync\\my dev\\github\\movietracker\\booktracker\\booktracker.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AACE3594-5985-4CCD-9381-523AD5501ED3}|BookTracker.api\\BookTracker.api.csproj|solutionrelative:booktracker.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13E98961-7482-4A97-8E81-B2102EF85E7E}|BookTracker.data\\BookTracker.data.csproj|d:\\files.nosync\\my dev\\github\\movietracker\\booktracker\\booktracker.data\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{13E98961-7482-4A97-8E81-B2102EF85E7E}|BookTracker.data\\BookTracker.data.csproj|D:\\Files.nosync\\My DEV\\github\\movietracker\\BookTracker\\booktracker.data\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13E98961-7482-4A97-8E81-B2102EF85E7E}|BookTracker.data\\BookTracker.data.csproj|solutionrelative:booktracker.data\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13E98961-7482-4A97-8E81-B2102EF85E7E}|BookTracker.data\\BookTracker.data.csproj|d:\\files.nosync\\my dev\\github\\movietracker\\booktracker\\booktracker.data\\unitofwork\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{13E98961-7482-4A97-8E81-B2102EF85E7E}|BookTracker.data\\BookTracker.data.csproj|D:\\Files.nosync\\My DEV\\github\\movietracker\\BookTracker\\booktracker.data\\unitofwork\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13E98961-7482-4A97-8E81-B2102EF85E7E}|BookTracker.data\\BookTracker.data.csproj|solutionrelative:booktracker.data\\unitofwork\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13E98961-7482-4A97-8E81-B2102EF85E7E}|BookTracker.data\\BookTracker.data.csproj|d:\\files.nosync\\my dev\\github\\movietracker\\booktracker\\booktracker.data\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13E98961-7482-4A97-8E81-B2102EF85E7E}|BookTracker.data\\BookTracker.data.csproj|solutionrelative:booktracker.data\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13E98961-7482-4A97-8E81-B2102EF85E7E}|BookTracker.data\\BookTracker.data.csproj|d:\\files.nosync\\my dev\\github\\movietracker\\booktracker\\booktracker.data\\repositories\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{13E98961-7482-4A97-8E81-B2102EF85E7E}|BookTracker.data\\BookTracker.data.csproj|D:\\Files.nosync\\My DEV\\github\\movietracker\\BookTracker\\booktracker.data\\repositories\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13E98961-7482-4A97-8E81-B2102EF85E7E}|BookTracker.data\\BookTracker.data.csproj|solutionrelative:booktracker.data\\repositories\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13E98961-7482-4A97-8E81-B2102EF85E7E}|BookTracker.data\\BookTracker.data.csproj|d:\\files.nosync\\my dev\\github\\movietracker\\booktracker\\booktracker.data\\repositories\\interfaces\\iauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{13E98961-7482-4A97-8E81-B2102EF85E7E}|BookTracker.data\\BookTracker.data.csproj|D:\\Files.nosync\\My DEV\\github\\movietracker\\BookTracker\\booktracker.data\\repositories\\interfaces\\iauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13E98961-7482-4A97-8E81-B2102EF85E7E}|BookTracker.data\\BookTracker.data.csproj|solutionrelative:booktracker.data\\repositories\\interfaces\\iauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13E98961-7482-4A97-8E81-B2102EF85E7E}|BookTracker.data\\BookTracker.data.csproj|d:\\files.nosync\\my dev\\github\\movietracker\\booktracker\\booktracker.data\\repositories\\base\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{13E98961-7482-4A97-8E81-B2102EF85E7E}|BookTracker.data\\BookTracker.data.csproj|D:\\Files.nosync\\My DEV\\github\\movietracker\\BookTracker\\booktracker.data\\repositories\\base\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13E98961-7482-4A97-8E81-B2102EF85E7E}|BookTracker.data\\BookTracker.data.csproj|solutionrelative:booktracker.data\\repositories\\base\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13E98961-7482-4A97-8E81-B2102EF85E7E}|BookTracker.data\\BookTracker.data.csproj|d:\\files.nosync\\my dev\\github\\movietracker\\booktracker\\booktracker.data\\repositories\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{13E98961-7482-4A97-8E81-B2102EF85E7E}|BookTracker.data\\BookTracker.data.csproj|D:\\Files.nosync\\My DEV\\github\\movietracker\\BookTracker\\booktracker.data\\repositories\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13E98961-7482-4A97-8E81-B2102EF85E7E}|BookTracker.data\\BookTracker.data.csproj|solutionrelative:booktracker.data\\repositories\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13E98961-7482-4A97-8E81-B2102EF85E7E}|BookTracker.data\\BookTracker.data.csproj|d:\\files.nosync\\my dev\\github\\movietracker\\booktracker\\booktracker.data\\repositories\\base\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{13E98961-7482-4A97-8E81-B2102EF85E7E}|BookTracker.data\\BookTracker.data.csproj|D:\\Files.nosync\\My DEV\\github\\movietracker\\BookTracker\\booktracker.data\\repositories\\base\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13E98961-7482-4A97-8E81-B2102EF85E7E}|BookTracker.data\\BookTracker.data.csproj|solutionrelative:booktracker.data\\repositories\\base\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13E98961-7482-4A97-8E81-B2102EF85E7E}|BookTracker.data\\BookTracker.data.csproj|d:\\files.nosync\\my dev\\github\\movietracker\\booktracker\\booktracker.data\\contexts\\btdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{13E98961-7482-4A97-8E81-B2102EF85E7E}|BookTracker.data\\BookTracker.data.csproj|D:\\Files.nosync\\My DEV\\github\\movietracker\\BookTracker\\booktracker.data\\contexts\\btdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13E98961-7482-4A97-8E81-B2102EF85E7E}|BookTracker.data\\BookTracker.data.csproj|solutionrelative:booktracker.data\\contexts\\btdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6FD3D3D7-3871-45B0-B57F-37F5CADD8179}|BookTracker.core\\BookTracker.core.csproj|d:\\files.nosync\\my dev\\github\\movietracker\\booktracker\\booktracker.core\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6FD3D3D7-3871-45B0-B57F-37F5CADD8179}|BookTracker.core\\BookTracker.core.csproj|D:\\Files.nosync\\My DEV\\github\\movietracker\\BookTracker\\booktracker.core\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6FD3D3D7-3871-45B0-B57F-37F5CADD8179}|BookTracker.core\\BookTracker.core.csproj|solutionrelative:booktracker.core\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6FD3D3D7-3871-45B0-B57F-37F5CADD8179}|BookTracker.core\\BookTracker.core.csproj|d:\\files.nosync\\my dev\\github\\movietracker\\booktracker\\booktracker.core\\entities\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6FD3D3D7-3871-45B0-B57F-37F5CADD8179}|BookTracker.core\\BookTracker.core.csproj|D:\\Files.nosync\\My DEV\\github\\movietracker\\BookTracker\\booktracker.core\\entities\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6FD3D3D7-3871-45B0-B57F-37F5CADD8179}|BookTracker.core\\BookTracker.core.csproj|solutionrelative:booktracker.core\\entities\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6FD3D3D7-3871-45B0-B57F-37F5CADD8179}|BookTracker.core\\BookTracker.core.csproj|d:\\files.nosync\\my dev\\github\\movietracker\\booktracker\\booktracker.core\\interfaces\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6FD3D3D7-3871-45B0-B57F-37F5CADD8179}|BookTracker.core\\BookTracker.core.csproj|D:\\Files.nosync\\My DEV\\github\\movietracker\\BookTracker\\booktracker.core\\interfaces\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6FD3D3D7-3871-45B0-B57F-37F5CADD8179}|BookTracker.core\\BookTracker.core.csproj|solutionrelative:booktracker.core\\interfaces\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AACE3594-5985-4CCD-9381-523AD5501ED3}|BookTracker.api\\BookTracker.api.csproj|d:\\files.nosync\\my dev\\github\\movietracker\\booktracker\\booktracker.api\\booktracker.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "AbsoluteMoniker": "D:0:0:{AACE3594-5985-4CCD-9381-523AD5501ED3}|BookTracker.api\\BookTracker.api.csproj|D:\\Files.nosync\\My DEV\\github\\movietracker\\BookTracker\\booktracker.api\\booktracker.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{AACE3594-5985-4CCD-9381-523AD5501ED3}|BookTracker.api\\BookTracker.api.csproj|solutionrelative:booktracker.api\\booktracker.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
@@ -66,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,7 +74,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Files.nosync\\My DEV\\github\\movietracker\\BookTracker\\BookTracker.api\\Program.cs",
               "RelativeDocumentMoniker": "BookTracker.api\\Program.cs",
@@ -87,7 +87,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "UnitOfWork.cs",
               "DocumentMoniker": "D:\\Files.nosync\\My DEV\\github\\movietracker\\BookTracker\\BookTracker.data\\UnitOfWork\\UnitOfWork.cs",
               "RelativeDocumentMoniker": "BookTracker.data\\UnitOfWork\\UnitOfWork.cs",
@@ -95,8 +95,7 @@
               "RelativeToolTip": "BookTracker.data\\UnitOfWork\\UnitOfWork.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAQwA8AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T20:57:01.602Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-14T20:57:01.602Z"
             },
             {
               "$type": "Document",
@@ -108,12 +107,11 @@
               "RelativeToolTip": "BookTracker.data\\Repositories\\AuthorRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T20:48:11.448Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-14T20:48:11.448Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "BookRepository.cs",
               "DocumentMoniker": "D:\\Files.nosync\\My DEV\\github\\movietracker\\BookTracker\\BookTracker.data\\Repositories\\BookRepository.cs",
               "RelativeDocumentMoniker": "BookTracker.data\\Repositories\\BookRepository.cs",
@@ -126,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "IUnitOfWork.cs",
               "DocumentMoniker": "D:\\Files.nosync\\My DEV\\github\\movietracker\\BookTracker\\BookTracker.data\\UnitOfWork\\Interfaces\\IUnitOfWork.cs",
               "RelativeDocumentMoniker": "BookTracker.data\\UnitOfWork\\Interfaces\\IUnitOfWork.cs",
@@ -134,8 +132,7 @@
               "RelativeToolTip": "BookTracker.data\\UnitOfWork\\Interfaces\\IUnitOfWork.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T20:43:07.487Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-14T20:43:07.487Z"
             },
             {
               "$type": "Document",
@@ -147,8 +144,7 @@
               "RelativeToolTip": "BookTracker.data\\Repositories\\Interfaces\\IAuthorRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T20:46:21.149Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-14T20:46:21.149Z"
             },
             {
               "$type": "Document",
@@ -160,8 +156,7 @@
               "RelativeToolTip": "BookTracker.data\\Repositories\\Base\\Interfaces\\IBaseRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T20:43:56.159Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-14T20:43:56.159Z"
             },
             {
               "$type": "Document",
@@ -173,8 +168,7 @@
               "RelativeToolTip": "BookTracker.data\\Repositories\\Interfaces\\IBookRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T20:46:33.282Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-14T20:46:33.282Z"
             },
             {
               "$type": "Document",
@@ -186,8 +180,7 @@
               "RelativeToolTip": "BookTracker.data\\Repositories\\Base\\BaseRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T20:44:38.511Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-14T20:44:38.511Z"
             },
             {
               "$type": "Document",
@@ -199,8 +192,7 @@
               "RelativeToolTip": "BookTracker.data\\Contexts\\BTDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T20:40:04.306Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-14T20:40:04.306Z"
             },
             {
               "$type": "Document",
@@ -212,8 +204,7 @@
               "RelativeToolTip": "BookTracker.core\\Entities\\Author.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T20:20:12.346Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-14T20:20:12.346Z"
             },
             {
               "$type": "Document",
@@ -225,8 +216,7 @@
               "RelativeToolTip": "BookTracker.core\\Entities\\Book.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T20:19:40.047Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-14T20:19:40.047Z"
             },
             {
               "$type": "Document",
@@ -238,8 +228,7 @@
               "RelativeToolTip": "BookTracker.core\\Interfaces\\IEntity.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T20:18:31.97Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-14T20:18:31.97Z"
             },
             {
               "$type": "Document",
@@ -250,8 +239,7 @@
               "ToolTip": "D:\\Files.nosync\\My DEV\\github\\movietracker\\BookTracker\\BookTracker.api\\BookTracker.api.csproj",
               "RelativeToolTip": "BookTracker.api\\BookTracker.api.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-14T20:01:03.892Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-14T20:01:03.892Z"
             }
           ]
         }

@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieTracker.Api", "MovieTracker.Api\MovieTracker.Api.csproj", "{C3DF9114-9527-4274-8A14-1F89AB5A0406}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "support", "support", "{85B1A1FE-67F1-45BC-925B-3D42213396D7}"
+	ProjectSection(SolutionItems) = preProject
+		support.txt = support.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieTracker.Core", "MovieTracker.Core\MovieTracker.Core.csproj", "{D2162456-F0F4-417B-8944-2BFFC887081D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieTracker.Data", "MovieTracker.Data\MovieTracker.Data.csproj", "{0F67421E-E8FC-4116-A9D5-D5523F34BC89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3DF9114-9527-4274-8A14-1F89AB5A0406}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3DF9114-9527-4274-8A14-1F89AB5A0406}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3DF9114-9527-4274-8A14-1F89AB5A0406}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3DF9114-9527-4274-8A14-1F89AB5A0406}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2162456-F0F4-417B-8944-2BFFC887081D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2162456-F0F4-417B-8944-2BFFC887081D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2162456-F0F4-417B-8944-2BFFC887081D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2162456-F0F4-417B-8944-2BFFC887081D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F67421E-E8FC-4116-A9D5-D5523F34BC89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F67421E-E8FC-4116-A9D5-D5523F34BC89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F67421E-E8FC-4116-A9D5-D5523F34BC89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F67421E-E8FC-4116-A9D5-D5523F34BC89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {784B1EBA-9459-4AC0-BFB7-97342CB400D7}
+	EndGlobalSection
+EndGlobal
