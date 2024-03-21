@@ -1,4 +1,7 @@
 
+using Microsoft.EntityFrameworkCore;
+using MovieTracker.Data;
+
 namespace MovieTracker.Api
 {
     public class Program
@@ -8,6 +11,8 @@ namespace MovieTracker.Api
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
+            builder.Services.AddDbContext<MTDbContext>(options =>
+                options.UseSqlServer(builder.Configuration.GetConnectionString("MTDbContext")));
 
             builder.Services.AddControllers();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

@@ -3,28 +3,36 @@
   "WorkspaceRootPath": "D:\\Files.nosync\\My DEV\\github\\movietracker\\MovieTracker\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C3DF9114-9527-4274-8A14-1F89AB5A0406}|MovieTracker.Api\\MovieTracker.Api.csproj|D:\\Files.nosync\\My DEV\\github\\movietracker\\MovieTracker\\movietracker.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3DF9114-9527-4274-8A14-1F89AB5A0406}|MovieTracker.Api\\MovieTracker.Api.csproj|solutionrelative:movietracker.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3DF9114-9527-4274-8A14-1F89AB5A0406}|MovieTracker.Api\\MovieTracker.Api.csproj|d:\\files.nosync\\my dev\\github\\movietracker\\movietracker\\movietracker.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C3DF9114-9527-4274-8A14-1F89AB5A0406}|MovieTracker.Api\\MovieTracker.Api.csproj|solutionrelative:movietracker.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0F67421E-E8FC-4116-A9D5-D5523F34BC89}|MovieTracker.Data\\MovieTracker.Data.csproj|d:\\files.nosync\\my dev\\github\\movietracker\\movietracker\\movietracker.data\\mtdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F67421E-E8FC-4116-A9D5-D5523F34BC89}|MovieTracker.Data\\MovieTracker.Data.csproj|solutionrelative:movietracker.data\\mtdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2162456-F0F4-417B-8944-2BFFC887081D}|MovieTracker.Core\\MovieTracker.Core.csproj|d:\\files.nosync\\my dev\\github\\movietracker\\movietracker\\movietracker.core\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D2162456-F0F4-417B-8944-2BFFC887081D}|MovieTracker.Core\\MovieTracker.Core.csproj|D:\\Files.nosync\\My DEV\\github\\movietracker\\MovieTracker\\movietracker.core\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2162456-F0F4-417B-8944-2BFFC887081D}|MovieTracker.Core\\MovieTracker.Core.csproj|solutionrelative:movietracker.core\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2162456-F0F4-417B-8944-2BFFC887081D}|MovieTracker.Core\\MovieTracker.Core.csproj|d:\\files.nosync\\my dev\\github\\movietracker\\movietracker\\movietracker.core\\interfaces\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2162456-F0F4-417B-8944-2BFFC887081D}|MovieTracker.Core\\MovieTracker.Core.csproj|solutionrelative:movietracker.core\\interfaces\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{85B1A1FE-67F1-45BC-925B-3D42213396D7}|support{85B1A1FE-67F1-45BC-925B-3D42213396D7}|D:\\Files.nosync\\My DEV\\github\\movietracker\\MovieTracker\\support.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{85B1A1FE-67F1-45BC-925B-3D42213396D7}|support{85B1A1FE-67F1-45BC-925B-3D42213396D7}|solutionrelative:support.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{85B1A1FE-67F1-45BC-925B-3D42213396D7}|NewFolder1{85B1A1FE-67F1-45BC-925B-3D42213396D7}|D:\\Files.nosync\\My DEV\\github\\movietracker\\MovieTracker\\support.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{85B1A1FE-67F1-45BC-925B-3D42213396D7}|NewFolder1{85B1A1FE-67F1-45BC-925B-3D42213396D7}|solutionrelative:support.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3DF9114-9527-4274-8A14-1F89AB5A0406}|MovieTracker.Api\\MovieTracker.Api.csproj|d:\\files.nosync\\my dev\\github\\movietracker\\movietracker\\movietracker.api\\movietracker.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C3DF9114-9527-4274-8A14-1F89AB5A0406}|MovieTracker.Api\\MovieTracker.Api.csproj|solutionrelative:movietracker.api\\movietracker.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{D2162456-F0F4-417B-8944-2BFFC887081D}|MovieTracker.Core\\MovieTracker.Core.csproj|D:\\Files.nosync\\My DEV\\github\\movietracker\\MovieTracker\\movietracker.core\\interfaces\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2162456-F0F4-417B-8944-2BFFC887081D}|MovieTracker.Core\\MovieTracker.Core.csproj|solutionrelative:movietracker.core\\interfaces\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3DF9114-9527-4274-8A14-1F89AB5A0406}|MovieTracker.Api\\MovieTracker.Api.csproj|d:\\files.nosync\\my dev\\github\\movietracker\\movietracker\\movietracker.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3DF9114-9527-4274-8A14-1F89AB5A0406}|MovieTracker.Api\\MovieTracker.Api.csproj|solutionrelative:movietracker.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3DF9114-9527-4274-8A14-1F89AB5A0406}|MovieTracker.Api\\MovieTracker.Api.csproj|D:\\Files.nosync\\My DEV\\github\\movietracker\\MovieTracker\\movietracker.api\\movietracker.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C3DF9114-9527-4274-8A14-1F89AB5A0406}|MovieTracker.Api\\MovieTracker.Api.csproj|solutionrelative:movietracker.api\\movietracker.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,39 +50,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Files.nosync\\My DEV\\github\\movietracker\\MovieTracker\\MovieTracker.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "MovieTracker.Api\\appsettings.json",
+              "ToolTip": "D:\\Files.nosync\\My DEV\\github\\movietracker\\MovieTracker\\MovieTracker.Api\\appsettings.json",
+              "RelativeToolTip": "MovieTracker.Api\\appsettings.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-21T19:57:55.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "MTDbContext.cs",
               "DocumentMoniker": "D:\\Files.nosync\\My DEV\\github\\movietracker\\MovieTracker\\MovieTracker.Data\\MTDbContext.cs",
               "RelativeDocumentMoniker": "MovieTracker.Data\\MTDbContext.cs",
               "ToolTip": "D:\\Files.nosync\\My DEV\\github\\movietracker\\MovieTracker\\MovieTracker.Data\\MTDbContext.cs",
               "RelativeToolTip": "MovieTracker.Data\\MTDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAfAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwA0AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-19T20:41:24.892Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IEntity.cs",
-              "DocumentMoniker": "D:\\Files.nosync\\My DEV\\github\\movietracker\\MovieTracker\\MovieTracker.Core\\Interfaces\\IEntity.cs",
-              "RelativeDocumentMoniker": "MovieTracker.Core\\Interfaces\\IEntity.cs",
-              "ToolTip": "D:\\Files.nosync\\My DEV\\github\\movietracker\\MovieTracker\\MovieTracker.Core\\Interfaces\\IEntity.cs",
-              "RelativeToolTip": "MovieTracker.Core\\Interfaces\\IEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Files.nosync\\My DEV\\github\\movietracker\\MovieTracker\\MovieTracker.Api\\Program.cs",
+              "RelativeDocumentMoniker": "MovieTracker.Api\\Program.cs",
+              "ToolTip": "D:\\Files.nosync\\My DEV\\github\\movietracker\\MovieTracker\\MovieTracker.Api\\Program.cs",
+              "RelativeToolTip": "MovieTracker.Api\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwA4AAABbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T20:37:01.336Z",
+              "WhenOpened": "2024-03-19T20:23:41.426Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Movie.cs",
               "DocumentMoniker": "D:\\Files.nosync\\My DEV\\github\\movietracker\\MovieTracker\\MovieTracker.Core\\Models\\Movie.cs",
               "RelativeDocumentMoniker": "MovieTracker.Core\\Models\\Movie.cs",
               "ToolTip": "D:\\Files.nosync\\My DEV\\github\\movietracker\\MovieTracker\\MovieTracker.Core\\Models\\Movie.cs",
               "RelativeToolTip": "MovieTracker.Core\\Models\\Movie.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAA0wBUAAAABAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAIwBUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-19T20:36:28.923Z",
               "EditorCaption": ""
@@ -82,7 +103,20 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "MovieTracker.Api",
+              "Title": "support.txt",
+              "DocumentMoniker": "D:\\Files.nosync\\My DEV\\github\\movietracker\\MovieTracker\\support.txt",
+              "RelativeDocumentMoniker": "support.txt",
+              "ToolTip": "D:\\Files.nosync\\My DEV\\github\\movietracker\\MovieTracker\\support.txt",
+              "RelativeToolTip": "support.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-03-21T19:52:03.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MovieTracker.Api.csproj",
               "DocumentMoniker": "D:\\Files.nosync\\My DEV\\github\\movietracker\\MovieTracker\\MovieTracker.Api\\MovieTracker.Api.csproj",
               "RelativeDocumentMoniker": "MovieTracker.Api\\MovieTracker.Api.csproj",
               "ToolTip": "D:\\Files.nosync\\My DEV\\github\\movietracker\\MovieTracker\\MovieTracker.Api\\MovieTracker.Api.csproj",
@@ -95,19 +129,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Files.nosync\\My DEV\\github\\movietracker\\MovieTracker\\MovieTracker.Api\\Program.cs",
-              "RelativeDocumentMoniker": "MovieTracker.Api\\Program.cs",
-              "ToolTip": "D:\\Files.nosync\\My DEV\\github\\movietracker\\MovieTracker\\MovieTracker.Api\\Program.cs",
-              "RelativeToolTip": "MovieTracker.Api\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T20:23:41.426Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "support.txt",
               "DocumentMoniker": "D:\\Files.nosync\\My DEV\\github\\movietracker\\MovieTracker\\support.txt",
               "RelativeDocumentMoniker": "support.txt",
@@ -115,7 +136,19 @@
               "RelativeToolTip": "support.txt",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-03-19T19:58:59.793Z",
+              "WhenOpened": "2024-03-19T19:58:59.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEntity.cs",
+              "DocumentMoniker": "D:\\Files.nosync\\My DEV\\github\\movietracker\\MovieTracker\\MovieTracker.Core\\Interfaces\\IEntity.cs",
+              "RelativeDocumentMoniker": "MovieTracker.Core\\Interfaces\\IEntity.cs",
+              "ToolTip": "D:\\Files.nosync\\My DEV\\github\\movietracker\\MovieTracker\\MovieTracker.Core\\Interfaces\\IEntity.cs",
+              "RelativeToolTip": "MovieTracker.Core\\Interfaces\\IEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T20:37:01.336Z",
               "EditorCaption": ""
             }
           ]

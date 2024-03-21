@@ -15,4 +15,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\MovieTracker.Core\MovieTracker.Core.csproj" />
+  </ItemGroup>
+
 </Project>
