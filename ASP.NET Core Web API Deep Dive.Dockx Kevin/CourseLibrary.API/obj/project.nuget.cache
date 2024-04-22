@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "edZ35+g9wGmHgubN0yVZxKgKAjo/XAZgq+aMvzZUg++aRS9+e4wAPPu5LtwL4IAGOKrBe/lBvUxjcKgtlC1/Ww==",
+  "dgSpecHash": "bOT46xsZfwsOOtiewZXdNNmYEslsjXS4AuSigu4XKKuEINRdWhCy2d9Yt6fjADuUUr3ZzZ0SG2sn1hkitqtp8w==",
   "success": true,
-  "projectFilePath": "D:\\Files.nosync\\My DEV\\github\\movietracker\\CourseLibrary.API\\CourseLibrary.API.csproj",
+  "projectFilePath": "D:\\Files.nosync\\My DEV\\github\\movietracker\\ASP.NET Core Web API Deep Dive.Dockx Kevin\\CourseLibrary.API\\CourseLibrary.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marcv\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\marcv\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

@@ -2707,11 +2707,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Files.nosync\\My DEV\\github\\movietracker\\CourseLibrary.API\\CourseLibrary.API.csproj",
+      "projectUniqueName": "D:\\Files.nosync\\My DEV\\github\\movietracker\\ASP.NET Core Web API Deep Dive.Dockx Kevin\\CourseLibrary.API\\CourseLibrary.API.csproj",
       "projectName": "CourseLibrary.API",
-      "projectPath": "D:\\Files.nosync\\My DEV\\github\\movietracker\\CourseLibrary.API\\CourseLibrary.API.csproj",
+      "projectPath": "D:\\Files.nosync\\My DEV\\github\\movietracker\\ASP.NET Core Web API Deep Dive.Dockx Kevin\\CourseLibrary.API\\CourseLibrary.API.csproj",
       "packagesPath": "C:\\Users\\marcv\\.nuget\\packages\\",
-      "outputPath": "D:\\Files.nosync\\My DEV\\github\\movietracker\\CourseLibrary.API\\obj\\",
+      "outputPath": "D:\\Files.nosync\\My DEV\\github\\movietracker\\ASP.NET Core Web API Deep Dive.Dockx Kevin\\CourseLibrary.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
