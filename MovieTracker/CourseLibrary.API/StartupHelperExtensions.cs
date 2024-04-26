@@ -1,5 +1,5 @@
-﻿using CourseLibrary.API.DbContexts;
-using CourseLibrary.API.Services;
+﻿using MovieTracker.API.DbContexts;
+using MovieTracker.API.Services;
 using Microsoft.EntityFrameworkCore;
 
 namespace MovieTracker.API;
@@ -14,7 +14,7 @@ internal static class StartupHelperExtensions
         builder.Services.AddScoped<ICourseLibraryRepository, 
             CourseLibraryRepository>();
 
-        builder.Services.AddDbContext<CourseLibraryContext>(options =>
+        builder.Services.AddDbContext<MovieTrackerContext>(options =>
         {
             options.UseSqlite(@"Data Source=library.db");
         });
@@ -46,7 +46,7 @@ internal static class StartupHelperExtensions
         {
             try
             {
-                var context = scope.ServiceProvider.GetService<CourseLibraryContext>();
+                var context = scope.ServiceProvider.GetService<MovieTrackerContext>();
                 if (context != null)
                 {
                     await context.Database.EnsureDeletedAsync();

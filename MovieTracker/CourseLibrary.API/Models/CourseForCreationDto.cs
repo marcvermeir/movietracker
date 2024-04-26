@@ -1,8 +1,7 @@
-﻿namespace CourseLibrary.API.Models;
+﻿//namespace MovieTracker.API.Models;
 
-public class CourseForCreationDto
-{
-    public string Title { get; set; } = string.Empty;
-    public string Description { get; set; } = string.Empty;
-}
-
+//public class CourseForCreationDto
+//{
+//    public string Title { get; set; } = string.Empty;
+//    public string Description { get; set; } = string.Empty;
+//}
