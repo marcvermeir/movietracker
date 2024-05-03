@@ -1,0 +1,14 @@
+D:\Files.nosync\My DEV\github\my2do\EFxMany2Many\EFxM2M\bin\Debug\EFxM2M.exe.config
+D:\Files.nosync\My DEV\github\my2do\EFxMany2Many\EFxM2M\bin\Debug\EFxM2M.exe
+D:\Files.nosync\My DEV\github\my2do\EFxMany2Many\EFxM2M\bin\Debug\EFxM2M.pdb
+D:\Files.nosync\My DEV\github\my2do\EFxMany2Many\EFxM2M\bin\Debug\EntityFramework.dll
+D:\Files.nosync\My DEV\github\my2do\EFxMany2Many\EFxM2M\bin\Debug\EntityFramework.SqlServer.dll
+D:\Files.nosync\My DEV\github\my2do\EFxMany2Many\EFxM2M\bin\Debug\EntityFramework.xml
+D:\Files.nosync\My DEV\github\my2do\EFxMany2Many\EFxM2M\bin\Debug\EntityFramework.SqlServer.xml
+D:\Files.nosync\My DEV\github\my2do\EFxMany2Many\EFxM2M\obj\Debug\EFxM2M.csproj.AssemblyReference.cache
+D:\Files.nosync\My DEV\github\my2do\EFxMany2Many\EFxM2M\obj\Debug\EFxM2M.csproj.CoreCompileInputs.cache
+D:\Files.nosync\My DEV\github\my2do\EFxMany2Many\EFxM2M\obj\Debug\EFxM2M.csproj.CopyComplete
+D:\Files.nosync\My DEV\github\my2do\EFxMany2Many\EFxM2M\obj\Debug\EFxM2M.exe
+D:\Files.nosync\My DEV\github\my2do\EFxMany2Many\EFxM2M\obj\Debug\EFxM2M.pdb
+D:\Files.nosync\My DEV\github\my2do\EFxMany2Many\EFxM2M\obj\Debug\EFxM2M.Migrations.EmptyMigration.resources
+D:\Files.nosync\My DEV\github\my2do\EFxMany2Many\EFxM2M\obj\Debug\EFxM2M.csproj.GenerateResource.cache

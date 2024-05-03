@@ -1,0 +1,2 @@
+D:\Files.nosync\My DEV\github\my2do\EFxMany2Many\EFxMany2Many\obj\Debug\EFxMany2Many.csproj.AssemblyReference.cache
+D:\Files.nosync\My DEV\github\my2do\EFxMany2Many\EFxMany2Many\obj\Debug\EFxMany2Many.csproj.CoreCompileInputs.cache

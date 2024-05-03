@@ -1,0 +1,12 @@
+D:\Files.nosync\My DEV\github\my2do\EFxDisconnectedUpdates\EFxDisconnectedUpdates\bin\Debug\EFxDisconnectedUpdates.exe.config
+D:\Files.nosync\My DEV\github\my2do\EFxDisconnectedUpdates\EFxDisconnectedUpdates\bin\Debug\EFxDisconnectedUpdates.exe
+D:\Files.nosync\My DEV\github\my2do\EFxDisconnectedUpdates\EFxDisconnectedUpdates\bin\Debug\EFxDisconnectedUpdates.pdb
+D:\Files.nosync\My DEV\github\my2do\EFxDisconnectedUpdates\EFxDisconnectedUpdates\bin\Debug\EntityFramework.dll
+D:\Files.nosync\My DEV\github\my2do\EFxDisconnectedUpdates\EFxDisconnectedUpdates\bin\Debug\EntityFramework.SqlServer.dll
+D:\Files.nosync\My DEV\github\my2do\EFxDisconnectedUpdates\EFxDisconnectedUpdates\bin\Debug\EntityFramework.xml
+D:\Files.nosync\My DEV\github\my2do\EFxDisconnectedUpdates\EFxDisconnectedUpdates\bin\Debug\EntityFramework.SqlServer.xml
+D:\Files.nosync\My DEV\github\my2do\EFxDisconnectedUpdates\EFxDisconnectedUpdates\obj\Debug\EFxDisconnectedUpdates.csproj.AssemblyReference.cache
+D:\Files.nosync\My DEV\github\my2do\EFxDisconnectedUpdates\EFxDisconnectedUpdates\obj\Debug\EFxDisconnectedUpdates.csproj.CoreCompileInputs.cache
+D:\Files.nosync\My DEV\github\my2do\EFxDisconnectedUpdates\EFxDisconnectedUpdates\obj\Debug\EFxDisconnectedUpdates.csproj.CopyComplete
+D:\Files.nosync\My DEV\github\my2do\EFxDisconnectedUpdates\EFxDisconnectedUpdates\obj\Debug\EFxDisconnectedUpdates.exe
+D:\Files.nosync\My DEV\github\my2do\EFxDisconnectedUpdates\EFxDisconnectedUpdates\obj\Debug\EFxDisconnectedUpdates.pdb
