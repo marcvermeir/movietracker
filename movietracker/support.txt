@@ -1,3 +1,0 @@
-cd movietracker
-npm install
-npm run dev
