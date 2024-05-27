@@ -1,5 +1,11 @@
+import { Button } from 'reactstrap';
+
 const Contact = () => {
-    return <h1>Contact Me</h1>;
-  };
-  
-  export default Contact
+    return (
+        <div>
+            <Button> Hello World </Button>
+        </div>
+    );
+};
+
+export default Contact
