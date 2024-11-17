@@ -1,5 +1,6 @@
+using MediatR;
 using Microsoft.EntityFrameworkCore;
-using MovieTracker;
+using MovieTracker.Repository.Context;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -10,8 +11,10 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-builder.Services.AddDbContext<MovieCtx>(options =>
+builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+builder.Services.AddMediatR(typeof(Program));
 
 var app = builder.Build();
 

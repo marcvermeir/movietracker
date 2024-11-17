@@ -1,31 +1,31 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using MovieTracker.Models;
+﻿//using Microsoft.AspNetCore.Mvc;
+//using MovieTracker.Domain.Entities;
 
-namespace MovieTracker
-{
-    [Route("api/[controller]")]
-    [ApiController]
-    public class MovieController : ControllerBase
-    {
-        private readonly MovieCtx _ctx;
+//namespace MovieTracker
+//{
+//    [Route("api/[controller]")]
+//    [ApiController]
+//    public class MovieController : ControllerBase
+//    {
+//        private readonly MovieCtx _ctx;
 
-        public MovieController(MovieCtx ctx)
-        {
-            _ctx = ctx ?? throw new ArgumentNullException(nameof(ctx));
-        }
+//        public MovieController(MovieCtx ctx)
+//        {
+//            _ctx = ctx ?? throw new ArgumentNullException(nameof(ctx));
+//        }
 
-        // Read
-        [HttpGet("{id}")]
-        public async Task<ActionResult<Movie>> GetMovie(int id)
-        {
-            var movie = await _ctx.Movies.FindAsync(id);
+//        // Read
+//        [HttpGet("{id}")]
+//        public async Task<ActionResult<Movie>> GetMovie(int id)
+//        {
+//            var movie = await _ctx.Movies.FindAsync(id);
 
-            if (movie == null)
-            {
-                return NotFound();
-            }
+//            if (movie == null)
+//            {
+//                return NotFound();
+//            }
 
-            return movie;
-        }
-    }
-}
+//            return movie;
+//        }
+//    }
+//}
