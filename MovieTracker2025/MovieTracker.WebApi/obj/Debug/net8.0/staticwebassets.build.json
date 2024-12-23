@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "M/5JndbjacIEIfbHNaOUv7G0GCKwxVj+5J5GjXSE+qc=",
+  "Source": "MovieTracker.WebApi",
+  "BasePath": "_content/MovieTracker.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
