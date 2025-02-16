@@ -1,0 +1,1 @@
+C:\Users\marcv\Documents\github\movietracker\MovieTracker\movietracker.client\obj\Debug\movietracker.client.esproj.CoreCompileInputs.cache
