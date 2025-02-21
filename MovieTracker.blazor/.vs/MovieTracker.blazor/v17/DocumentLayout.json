@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marcv\\Documents\\github\\movietracker\\MovieTracker.blazor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA047BB-E581-4DE2-9790-D3C89C957379}|MovieTracker\\MovieTracker.csproj|c:\\users\\marcv\\documents\\github\\movietracker\\movietracker.blazor\\movietracker\\data\\weatherforecastservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EA047BB-E581-4DE2-9790-D3C89C957379}|MovieTracker\\MovieTracker.csproj|solutionrelative:movietracker\\data\\weatherforecastservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA047BB-E581-4DE2-9790-D3C89C957379}|MovieTracker\\MovieTracker.csproj|c:\\users\\marcv\\documents\\github\\movietracker\\movietracker.blazor\\movietracker\\pages\\allmovies.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EA047BB-E581-4DE2-9790-D3C89C957379}|MovieTracker\\MovieTracker.csproj|solutionrelative:movietracker\\pages\\allmovies.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA047BB-E581-4DE2-9790-D3C89C957379}|MovieTracker\\MovieTracker.csproj|c:\\users\\marcv\\documents\\github\\movietracker\\movietracker.blazor\\movietracker\\pages\\fetchdata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EA047BB-E581-4DE2-9790-D3C89C957379}|MovieTracker\\MovieTracker.csproj|solutionrelative:movietracker\\pages\\fetchdata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA047BB-E581-4DE2-9790-D3C89C957379}|MovieTracker\\MovieTracker.csproj|c:\\users\\marcv\\documents\\github\\movietracker\\movietracker.blazor\\movietracker\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EA047BB-E581-4DE2-9790-D3C89C957379}|MovieTracker\\MovieTracker.csproj|solutionrelative:movietracker\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA047BB-E581-4DE2-9790-D3C89C957379}|MovieTracker\\MovieTracker.csproj|c:\\users\\marcv\\documents\\github\\movietracker\\movietracker.blazor\\movietracker\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EA047BB-E581-4DE2-9790-D3C89C957379}|MovieTracker\\MovieTracker.csproj|solutionrelative:movietracker\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA047BB-E581-4DE2-9790-D3C89C957379}|MovieTracker\\MovieTracker.csproj|c:\\users\\marcv\\documents\\github\\movietracker\\movietracker.blazor\\movietracker\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EA047BB-E581-4DE2-9790-D3C89C957379}|MovieTracker\\MovieTracker.csproj|solutionrelative:movietracker\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA047BB-E581-4DE2-9790-D3C89C957379}|MovieTracker\\MovieTracker.csproj|c:\\users\\marcv\\documents\\github\\movietracker\\movietracker.blazor\\movietracker\\shared\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5EA047BB-E581-4DE2-9790-D3C89C957379}|MovieTracker\\MovieTracker.csproj|solutionrelative:movietracker\\shared\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA047BB-E581-4DE2-9790-D3C89C957379}|MovieTracker\\MovieTracker.csproj|c:\\users\\marcv\\documents\\github\\movietracker\\movietracker.blazor\\movietracker\\shared\\surveyprompt.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EA047BB-E581-4DE2-9790-D3C89C957379}|MovieTracker\\MovieTracker.csproj|solutionrelative:movietracker\\shared\\surveyprompt.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA047BB-E581-4DE2-9790-D3C89C957379}|MovieTracker\\MovieTracker.csproj|c:\\users\\marcv\\documents\\github\\movietracker\\movietracker.blazor\\movietracker\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EA047BB-E581-4DE2-9790-D3C89C957379}|MovieTracker\\MovieTracker.csproj|solutionrelative:movietracker\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA047BB-E581-4DE2-9790-D3C89C957379}|MovieTracker\\MovieTracker.csproj|c:\\users\\marcv\\documents\\github\\movietracker\\movietracker.blazor\\movietracker\\shared\\logindisplay.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EA047BB-E581-4DE2-9790-D3C89C957379}|MovieTracker\\MovieTracker.csproj|solutionrelative:movietracker\\shared\\logindisplay.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA047BB-E581-4DE2-9790-D3C89C957379}|MovieTracker\\MovieTracker.csproj|c:\\users\\marcv\\documents\\github\\movietracker\\movietracker.blazor\\movietracker\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EA047BB-E581-4DE2-9790-D3C89C957379}|MovieTracker\\MovieTracker.csproj|solutionrelative:movietracker\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA047BB-E581-4DE2-9790-D3C89C957379}|MovieTracker\\MovieTracker.csproj|c:\\users\\marcv\\documents\\github\\movietracker\\movietracker.blazor\\movietracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EA047BB-E581-4DE2-9790-D3C89C957379}|MovieTracker\\MovieTracker.csproj|solutionrelative:movietracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA047BB-E581-4DE2-9790-D3C89C957379}|MovieTracker\\MovieTracker.csproj|c:\\users\\marcv\\documents\\github\\movietracker\\movietracker.blazor\\movietracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5EA047BB-E581-4DE2-9790-D3C89C957379}|MovieTracker\\MovieTracker.csproj|solutionrelative:movietracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastService.cs",
+              "DocumentMoniker": "C:\\Users\\marcv\\Documents\\github\\movietracker\\MovieTracker.blazor\\MovieTracker\\Data\\WeatherForecastService.cs",
+              "RelativeDocumentMoniker": "MovieTracker\\Data\\WeatherForecastService.cs",
+              "ToolTip": "C:\\Users\\marcv\\Documents\\github\\movietracker\\MovieTracker.blazor\\MovieTracker\\Data\\WeatherForecastService.cs",
+              "RelativeToolTip": "MovieTracker\\Data\\WeatherForecastService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T22:04:08.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AllMovies.razor",
+              "DocumentMoniker": "C:\\Users\\marcv\\Documents\\github\\movietracker\\MovieTracker.blazor\\MovieTracker\\Pages\\AllMovies.razor",
+              "RelativeDocumentMoniker": "MovieTracker\\Pages\\AllMovies.razor",
+              "ToolTip": "C:\\Users\\marcv\\Documents\\github\\movietracker\\MovieTracker.blazor\\MovieTracker\\Pages\\AllMovies.razor",
+              "RelativeToolTip": "MovieTracker\\Pages\\AllMovies.razor",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T22:02:06.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NavMenu.razor.css",
+              "DocumentMoniker": "C:\\Users\\marcv\\Documents\\github\\movietracker\\MovieTracker.blazor\\MovieTracker\\Shared\\NavMenu.razor.css",
+              "RelativeDocumentMoniker": "MovieTracker\\Shared\\NavMenu.razor.css",
+              "ToolTip": "C:\\Users\\marcv\\Documents\\github\\movietracker\\MovieTracker.blazor\\MovieTracker\\Shared\\NavMenu.razor.css",
+              "RelativeToolTip": "MovieTracker\\Shared\\NavMenu.razor.css",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-21T21:59:56.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SurveyPrompt.razor",
+              "DocumentMoniker": "C:\\Users\\marcv\\Documents\\github\\movietracker\\MovieTracker.blazor\\MovieTracker\\Shared\\SurveyPrompt.razor",
+              "RelativeDocumentMoniker": "MovieTracker\\Shared\\SurveyPrompt.razor",
+              "ToolTip": "C:\\Users\\marcv\\Documents\\github\\movietracker\\MovieTracker.blazor\\MovieTracker\\Shared\\SurveyPrompt.razor",
+              "RelativeToolTip": "MovieTracker\\Shared\\SurveyPrompt.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T21:59:53.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1566733889:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FetchData.razor",
+              "DocumentMoniker": "C:\\Users\\marcv\\Documents\\github\\movietracker\\MovieTracker.blazor\\MovieTracker\\Pages\\FetchData.razor",
+              "RelativeDocumentMoniker": "MovieTracker\\Pages\\FetchData.razor",
+              "ToolTip": "C:\\Users\\marcv\\Documents\\github\\movietracker\\MovieTracker.blazor\\MovieTracker\\Pages\\FetchData.razor",
+              "RelativeToolTip": "MovieTracker\\Pages\\FetchData.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T21:57:23.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Host.cshtml",
+              "DocumentMoniker": "C:\\Users\\marcv\\Documents\\github\\movietracker\\MovieTracker.blazor\\MovieTracker\\Pages\\_Host.cshtml",
+              "RelativeDocumentMoniker": "MovieTracker\\Pages\\_Host.cshtml",
+              "ToolTip": "C:\\Users\\marcv\\Documents\\github\\movietracker\\MovieTracker.blazor\\MovieTracker\\Pages\\_Host.cshtml",
+              "RelativeToolTip": "MovieTracker\\Pages\\_Host.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T21:57:19.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\marcv\\Documents\\github\\movietracker\\MovieTracker.blazor\\MovieTracker\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "MovieTracker\\Shared\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\marcv\\Documents\\github\\movietracker\\MovieTracker.blazor\\MovieTracker\\Shared\\NavMenu.razor",
+              "RelativeToolTip": "MovieTracker\\Shared\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T21:57:13.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\marcv\\Documents\\github\\movietracker\\MovieTracker.blazor\\MovieTracker\\Shared\\MainLayout.razor",
+              "RelativeDocumentMoniker": "MovieTracker\\Shared\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\marcv\\Documents\\github\\movietracker\\MovieTracker.blazor\\MovieTracker\\Shared\\MainLayout.razor",
+              "RelativeToolTip": "MovieTracker\\Shared\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T21:57:08.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\marcv\\Documents\\github\\movietracker\\MovieTracker.blazor\\MovieTracker\\App.razor",
+              "RelativeDocumentMoniker": "MovieTracker\\App.razor",
+              "ToolTip": "C:\\Users\\marcv\\Documents\\github\\movietracker\\MovieTracker.blazor\\MovieTracker\\App.razor",
+              "RelativeToolTip": "MovieTracker\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T21:56:42.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginDisplay.razor",
+              "DocumentMoniker": "C:\\Users\\marcv\\Documents\\github\\movietracker\\MovieTracker.blazor\\MovieTracker\\Shared\\LoginDisplay.razor",
+              "RelativeDocumentMoniker": "MovieTracker\\Shared\\LoginDisplay.razor",
+              "ToolTip": "C:\\Users\\marcv\\Documents\\github\\movietracker\\MovieTracker.blazor\\MovieTracker\\Shared\\LoginDisplay.razor",
+              "RelativeToolTip": "MovieTracker\\Shared\\LoginDisplay.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T21:57:05.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\marcv\\Documents\\github\\movietracker\\MovieTracker.blazor\\MovieTracker\\_Imports.razor",
+              "RelativeDocumentMoniker": "MovieTracker\\_Imports.razor",
+              "ToolTip": "C:\\Users\\marcv\\Documents\\github\\movietracker\\MovieTracker.blazor\\MovieTracker\\_Imports.razor",
+              "RelativeToolTip": "MovieTracker\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T21:57:01.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\marcv\\Documents\\github\\movietracker\\MovieTracker.blazor\\MovieTracker\\appsettings.json",
+              "RelativeDocumentMoniker": "MovieTracker\\appsettings.json",
+              "ToolTip": "C:\\Users\\marcv\\Documents\\github\\movietracker\\MovieTracker.blazor\\MovieTracker\\appsettings.json",
+              "RelativeToolTip": "MovieTracker\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-21T21:56:33.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marcv\\Documents\\github\\movietracker\\MovieTracker.blazor\\MovieTracker\\Program.cs",
+              "RelativeDocumentMoniker": "MovieTracker\\Program.cs",
+              "ToolTip": "C:\\Users\\marcv\\Documents\\github\\movietracker\\MovieTracker.blazor\\MovieTracker\\Program.cs",
+              "RelativeToolTip": "MovieTracker\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T21:56:09.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
