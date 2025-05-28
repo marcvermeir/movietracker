@@ -5,6 +5,7 @@ import './App.css'
 //import MovieList from './MovieList'
 import { Routes, Route } from "react-router-dom";
 import Home from "./pages/Home";
+import MovieList from './pages/MovieList';
 import About from "./pages/About";
 import Navbar from './Navbar';
 
@@ -16,6 +17,7 @@ function App() {
       <Navbar />
       <Routes>
         <Route path="/" element={<Home />} />
+        <Route path="/movies" element={<MovieList />} />
         <Route path="/about" element={<About />} />
       </Routes>
 
